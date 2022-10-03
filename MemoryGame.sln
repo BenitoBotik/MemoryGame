@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryGame", "MemoryGame\MemoryGame.csproj", "{52618F79-A0F1-45B1-8D1B-EDA7F87170FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MODEL", "MODEL\MODEL.csproj", "{6C10EA08-8B02-45DA-A1C2-3BFC0D9C9996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52618F79-A0F1-45B1-8D1B-EDA7F87170FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52618F79-A0F1-45B1-8D1B-EDA7F87170FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52618F79-A0F1-45B1-8D1B-EDA7F87170FB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{52618F79-A0F1-45B1-8D1B-EDA7F87170FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52618F79-A0F1-45B1-8D1B-EDA7F87170FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52618F79-A0F1-45B1-8D1B-EDA7F87170FB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6C10EA08-8B02-45DA-A1C2-3BFC0D9C9996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C10EA08-8B02-45DA-A1C2-3BFC0D9C9996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C10EA08-8B02-45DA-A1C2-3BFC0D9C9996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C10EA08-8B02-45DA-A1C2-3BFC0D9C9996}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05387E83-B6E3-462E-9C5F-4CF57C496DBD}
+	EndGlobalSection
+EndGlobal
