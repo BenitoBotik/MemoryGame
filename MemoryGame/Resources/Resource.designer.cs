@@ -25,6 +25,1708 @@ namespace MemoryGame
 		
 		public static void UpdateIdValues()
 		{
+			global::MODEL.Resource.Animation.abc_fade_in = global::MemoryGame.Resource.Animation.abc_fade_in;
+			global::MODEL.Resource.Animation.abc_fade_out = global::MemoryGame.Resource.Animation.abc_fade_out;
+			global::MODEL.Resource.Animation.abc_grow_fade_in_from_bottom = global::MemoryGame.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::MODEL.Resource.Animation.abc_popup_enter = global::MemoryGame.Resource.Animation.abc_popup_enter;
+			global::MODEL.Resource.Animation.abc_popup_exit = global::MemoryGame.Resource.Animation.abc_popup_exit;
+			global::MODEL.Resource.Animation.abc_shrink_fade_out_from_bottom = global::MemoryGame.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::MODEL.Resource.Animation.abc_slide_in_bottom = global::MemoryGame.Resource.Animation.abc_slide_in_bottom;
+			global::MODEL.Resource.Animation.abc_slide_in_top = global::MemoryGame.Resource.Animation.abc_slide_in_top;
+			global::MODEL.Resource.Animation.abc_slide_out_bottom = global::MemoryGame.Resource.Animation.abc_slide_out_bottom;
+			global::MODEL.Resource.Animation.abc_slide_out_top = global::MemoryGame.Resource.Animation.abc_slide_out_top;
+			global::MODEL.Resource.Animation.abc_tooltip_enter = global::MemoryGame.Resource.Animation.abc_tooltip_enter;
+			global::MODEL.Resource.Animation.abc_tooltip_exit = global::MemoryGame.Resource.Animation.abc_tooltip_exit;
+			global::MODEL.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation = global::MemoryGame.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation;
+			global::MODEL.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation = global::MemoryGame.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation;
+			global::MODEL.Resource.Animation.btn_checkbox_to_checked_icon_null_animation = global::MemoryGame.Resource.Animation.btn_checkbox_to_checked_icon_null_animation;
+			global::MODEL.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation = global::MemoryGame.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation;
+			global::MODEL.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation = global::MemoryGame.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation;
+			global::MODEL.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation = global::MemoryGame.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation;
+			global::MODEL.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation = global::MemoryGame.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation;
+			global::MODEL.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation = global::MemoryGame.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation;
+			global::MODEL.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation = global::MemoryGame.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation;
+			global::MODEL.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation = global::MemoryGame.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation;
+			global::MODEL.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation = global::MemoryGame.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation;
+			global::MODEL.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation = global::MemoryGame.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation;
+			global::MODEL.Resource.Animation.fragment_close_enter = global::MemoryGame.Resource.Animation.fragment_close_enter;
+			global::MODEL.Resource.Animation.fragment_close_exit = global::MemoryGame.Resource.Animation.fragment_close_exit;
+			global::MODEL.Resource.Animation.fragment_fade_enter = global::MemoryGame.Resource.Animation.fragment_fade_enter;
+			global::MODEL.Resource.Animation.fragment_fade_exit = global::MemoryGame.Resource.Animation.fragment_fade_exit;
+			global::MODEL.Resource.Animation.fragment_fast_out_extra_slow_in = global::MemoryGame.Resource.Animation.fragment_fast_out_extra_slow_in;
+			global::MODEL.Resource.Animation.fragment_open_enter = global::MemoryGame.Resource.Animation.fragment_open_enter;
+			global::MODEL.Resource.Animation.fragment_open_exit = global::MemoryGame.Resource.Animation.fragment_open_exit;
+			global::MODEL.Resource.Attribute.actionBarDivider = global::MemoryGame.Resource.Attribute.actionBarDivider;
+			global::MODEL.Resource.Attribute.actionBarItemBackground = global::MemoryGame.Resource.Attribute.actionBarItemBackground;
+			global::MODEL.Resource.Attribute.actionBarPopupTheme = global::MemoryGame.Resource.Attribute.actionBarPopupTheme;
+			global::MODEL.Resource.Attribute.actionBarSize = global::MemoryGame.Resource.Attribute.actionBarSize;
+			global::MODEL.Resource.Attribute.actionBarSplitStyle = global::MemoryGame.Resource.Attribute.actionBarSplitStyle;
+			global::MODEL.Resource.Attribute.actionBarStyle = global::MemoryGame.Resource.Attribute.actionBarStyle;
+			global::MODEL.Resource.Attribute.actionBarTabBarStyle = global::MemoryGame.Resource.Attribute.actionBarTabBarStyle;
+			global::MODEL.Resource.Attribute.actionBarTabStyle = global::MemoryGame.Resource.Attribute.actionBarTabStyle;
+			global::MODEL.Resource.Attribute.actionBarTabTextStyle = global::MemoryGame.Resource.Attribute.actionBarTabTextStyle;
+			global::MODEL.Resource.Attribute.actionBarTheme = global::MemoryGame.Resource.Attribute.actionBarTheme;
+			global::MODEL.Resource.Attribute.actionBarWidgetTheme = global::MemoryGame.Resource.Attribute.actionBarWidgetTheme;
+			global::MODEL.Resource.Attribute.actionButtonStyle = global::MemoryGame.Resource.Attribute.actionButtonStyle;
+			global::MODEL.Resource.Attribute.actionDropDownStyle = global::MemoryGame.Resource.Attribute.actionDropDownStyle;
+			global::MODEL.Resource.Attribute.actionLayout = global::MemoryGame.Resource.Attribute.actionLayout;
+			global::MODEL.Resource.Attribute.actionMenuTextAppearance = global::MemoryGame.Resource.Attribute.actionMenuTextAppearance;
+			global::MODEL.Resource.Attribute.actionMenuTextColor = global::MemoryGame.Resource.Attribute.actionMenuTextColor;
+			global::MODEL.Resource.Attribute.actionModeBackground = global::MemoryGame.Resource.Attribute.actionModeBackground;
+			global::MODEL.Resource.Attribute.actionModeCloseButtonStyle = global::MemoryGame.Resource.Attribute.actionModeCloseButtonStyle;
+			global::MODEL.Resource.Attribute.actionModeCloseDrawable = global::MemoryGame.Resource.Attribute.actionModeCloseDrawable;
+			global::MODEL.Resource.Attribute.actionModeCopyDrawable = global::MemoryGame.Resource.Attribute.actionModeCopyDrawable;
+			global::MODEL.Resource.Attribute.actionModeCutDrawable = global::MemoryGame.Resource.Attribute.actionModeCutDrawable;
+			global::MODEL.Resource.Attribute.actionModeFindDrawable = global::MemoryGame.Resource.Attribute.actionModeFindDrawable;
+			global::MODEL.Resource.Attribute.actionModePasteDrawable = global::MemoryGame.Resource.Attribute.actionModePasteDrawable;
+			global::MODEL.Resource.Attribute.actionModePopupWindowStyle = global::MemoryGame.Resource.Attribute.actionModePopupWindowStyle;
+			global::MODEL.Resource.Attribute.actionModeSelectAllDrawable = global::MemoryGame.Resource.Attribute.actionModeSelectAllDrawable;
+			global::MODEL.Resource.Attribute.actionModeShareDrawable = global::MemoryGame.Resource.Attribute.actionModeShareDrawable;
+			global::MODEL.Resource.Attribute.actionModeSplitBackground = global::MemoryGame.Resource.Attribute.actionModeSplitBackground;
+			global::MODEL.Resource.Attribute.actionModeStyle = global::MemoryGame.Resource.Attribute.actionModeStyle;
+			global::MODEL.Resource.Attribute.actionModeWebSearchDrawable = global::MemoryGame.Resource.Attribute.actionModeWebSearchDrawable;
+			global::MODEL.Resource.Attribute.actionOverflowButtonStyle = global::MemoryGame.Resource.Attribute.actionOverflowButtonStyle;
+			global::MODEL.Resource.Attribute.actionOverflowMenuStyle = global::MemoryGame.Resource.Attribute.actionOverflowMenuStyle;
+			global::MODEL.Resource.Attribute.actionProviderClass = global::MemoryGame.Resource.Attribute.actionProviderClass;
+			global::MODEL.Resource.Attribute.actionViewClass = global::MemoryGame.Resource.Attribute.actionViewClass;
+			global::MODEL.Resource.Attribute.activityChooserViewStyle = global::MemoryGame.Resource.Attribute.activityChooserViewStyle;
+			global::MODEL.Resource.Attribute.alertDialogButtonGroupStyle = global::MemoryGame.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::MODEL.Resource.Attribute.alertDialogCenterButtons = global::MemoryGame.Resource.Attribute.alertDialogCenterButtons;
+			global::MODEL.Resource.Attribute.alertDialogStyle = global::MemoryGame.Resource.Attribute.alertDialogStyle;
+			global::MODEL.Resource.Attribute.alertDialogTheme = global::MemoryGame.Resource.Attribute.alertDialogTheme;
+			global::MODEL.Resource.Attribute.allowStacking = global::MemoryGame.Resource.Attribute.allowStacking;
+			global::MODEL.Resource.Attribute.alpha = global::MemoryGame.Resource.Attribute.alpha;
+			global::MODEL.Resource.Attribute.alphabeticModifiers = global::MemoryGame.Resource.Attribute.alphabeticModifiers;
+			global::MODEL.Resource.Attribute.arrowHeadLength = global::MemoryGame.Resource.Attribute.arrowHeadLength;
+			global::MODEL.Resource.Attribute.arrowShaftLength = global::MemoryGame.Resource.Attribute.arrowShaftLength;
+			global::MODEL.Resource.Attribute.autoCompleteTextViewStyle = global::MemoryGame.Resource.Attribute.autoCompleteTextViewStyle;
+			global::MODEL.Resource.Attribute.autoSizeMaxTextSize = global::MemoryGame.Resource.Attribute.autoSizeMaxTextSize;
+			global::MODEL.Resource.Attribute.autoSizeMinTextSize = global::MemoryGame.Resource.Attribute.autoSizeMinTextSize;
+			global::MODEL.Resource.Attribute.autoSizePresetSizes = global::MemoryGame.Resource.Attribute.autoSizePresetSizes;
+			global::MODEL.Resource.Attribute.autoSizeStepGranularity = global::MemoryGame.Resource.Attribute.autoSizeStepGranularity;
+			global::MODEL.Resource.Attribute.autoSizeTextType = global::MemoryGame.Resource.Attribute.autoSizeTextType;
+			global::MODEL.Resource.Attribute.background = global::MemoryGame.Resource.Attribute.background;
+			global::MODEL.Resource.Attribute.backgroundSplit = global::MemoryGame.Resource.Attribute.backgroundSplit;
+			global::MODEL.Resource.Attribute.backgroundStacked = global::MemoryGame.Resource.Attribute.backgroundStacked;
+			global::MODEL.Resource.Attribute.backgroundTint = global::MemoryGame.Resource.Attribute.backgroundTint;
+			global::MODEL.Resource.Attribute.backgroundTintMode = global::MemoryGame.Resource.Attribute.backgroundTintMode;
+			global::MODEL.Resource.Attribute.barLength = global::MemoryGame.Resource.Attribute.barLength;
+			global::MODEL.Resource.Attribute.borderlessButtonStyle = global::MemoryGame.Resource.Attribute.borderlessButtonStyle;
+			global::MODEL.Resource.Attribute.buttonBarButtonStyle = global::MemoryGame.Resource.Attribute.buttonBarButtonStyle;
+			global::MODEL.Resource.Attribute.buttonBarNegativeButtonStyle = global::MemoryGame.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::MODEL.Resource.Attribute.buttonBarNeutralButtonStyle = global::MemoryGame.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::MODEL.Resource.Attribute.buttonBarPositiveButtonStyle = global::MemoryGame.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::MODEL.Resource.Attribute.buttonBarStyle = global::MemoryGame.Resource.Attribute.buttonBarStyle;
+			global::MODEL.Resource.Attribute.buttonCompat = global::MemoryGame.Resource.Attribute.buttonCompat;
+			global::MODEL.Resource.Attribute.buttonGravity = global::MemoryGame.Resource.Attribute.buttonGravity;
+			global::MODEL.Resource.Attribute.buttonIconDimen = global::MemoryGame.Resource.Attribute.buttonIconDimen;
+			global::MODEL.Resource.Attribute.buttonPanelSideLayout = global::MemoryGame.Resource.Attribute.buttonPanelSideLayout;
+			global::MODEL.Resource.Attribute.buttonStyle = global::MemoryGame.Resource.Attribute.buttonStyle;
+			global::MODEL.Resource.Attribute.buttonStyleSmall = global::MemoryGame.Resource.Attribute.buttonStyleSmall;
+			global::MODEL.Resource.Attribute.buttonTint = global::MemoryGame.Resource.Attribute.buttonTint;
+			global::MODEL.Resource.Attribute.buttonTintMode = global::MemoryGame.Resource.Attribute.buttonTintMode;
+			global::MODEL.Resource.Attribute.checkboxStyle = global::MemoryGame.Resource.Attribute.checkboxStyle;
+			global::MODEL.Resource.Attribute.checkedTextViewStyle = global::MemoryGame.Resource.Attribute.checkedTextViewStyle;
+			global::MODEL.Resource.Attribute.closeIcon = global::MemoryGame.Resource.Attribute.closeIcon;
+			global::MODEL.Resource.Attribute.closeItemLayout = global::MemoryGame.Resource.Attribute.closeItemLayout;
+			global::MODEL.Resource.Attribute.collapseContentDescription = global::MemoryGame.Resource.Attribute.collapseContentDescription;
+			global::MODEL.Resource.Attribute.collapseIcon = global::MemoryGame.Resource.Attribute.collapseIcon;
+			global::MODEL.Resource.Attribute.color = global::MemoryGame.Resource.Attribute.color;
+			global::MODEL.Resource.Attribute.colorAccent = global::MemoryGame.Resource.Attribute.colorAccent;
+			global::MODEL.Resource.Attribute.colorBackgroundFloating = global::MemoryGame.Resource.Attribute.colorBackgroundFloating;
+			global::MODEL.Resource.Attribute.colorButtonNormal = global::MemoryGame.Resource.Attribute.colorButtonNormal;
+			global::MODEL.Resource.Attribute.colorControlActivated = global::MemoryGame.Resource.Attribute.colorControlActivated;
+			global::MODEL.Resource.Attribute.colorControlHighlight = global::MemoryGame.Resource.Attribute.colorControlHighlight;
+			global::MODEL.Resource.Attribute.colorControlNormal = global::MemoryGame.Resource.Attribute.colorControlNormal;
+			global::MODEL.Resource.Attribute.colorError = global::MemoryGame.Resource.Attribute.colorError;
+			global::MODEL.Resource.Attribute.colorPrimary = global::MemoryGame.Resource.Attribute.colorPrimary;
+			global::MODEL.Resource.Attribute.colorPrimaryDark = global::MemoryGame.Resource.Attribute.colorPrimaryDark;
+			global::MODEL.Resource.Attribute.colorSwitchThumbNormal = global::MemoryGame.Resource.Attribute.colorSwitchThumbNormal;
+			global::MODEL.Resource.Attribute.commitIcon = global::MemoryGame.Resource.Attribute.commitIcon;
+			global::MODEL.Resource.Attribute.contentDescription = global::MemoryGame.Resource.Attribute.contentDescription;
+			global::MODEL.Resource.Attribute.contentInsetEnd = global::MemoryGame.Resource.Attribute.contentInsetEnd;
+			global::MODEL.Resource.Attribute.contentInsetEndWithActions = global::MemoryGame.Resource.Attribute.contentInsetEndWithActions;
+			global::MODEL.Resource.Attribute.contentInsetLeft = global::MemoryGame.Resource.Attribute.contentInsetLeft;
+			global::MODEL.Resource.Attribute.contentInsetRight = global::MemoryGame.Resource.Attribute.contentInsetRight;
+			global::MODEL.Resource.Attribute.contentInsetStart = global::MemoryGame.Resource.Attribute.contentInsetStart;
+			global::MODEL.Resource.Attribute.contentInsetStartWithNavigation = global::MemoryGame.Resource.Attribute.contentInsetStartWithNavigation;
+			global::MODEL.Resource.Attribute.controlBackground = global::MemoryGame.Resource.Attribute.controlBackground;
+			global::MODEL.Resource.Attribute.customNavigationLayout = global::MemoryGame.Resource.Attribute.customNavigationLayout;
+			global::MODEL.Resource.Attribute.defaultQueryHint = global::MemoryGame.Resource.Attribute.defaultQueryHint;
+			global::MODEL.Resource.Attribute.dialogCornerRadius = global::MemoryGame.Resource.Attribute.dialogCornerRadius;
+			global::MODEL.Resource.Attribute.dialogPreferredPadding = global::MemoryGame.Resource.Attribute.dialogPreferredPadding;
+			global::MODEL.Resource.Attribute.dialogTheme = global::MemoryGame.Resource.Attribute.dialogTheme;
+			global::MODEL.Resource.Attribute.displayOptions = global::MemoryGame.Resource.Attribute.displayOptions;
+			global::MODEL.Resource.Attribute.divider = global::MemoryGame.Resource.Attribute.divider;
+			global::MODEL.Resource.Attribute.dividerHorizontal = global::MemoryGame.Resource.Attribute.dividerHorizontal;
+			global::MODEL.Resource.Attribute.dividerPadding = global::MemoryGame.Resource.Attribute.dividerPadding;
+			global::MODEL.Resource.Attribute.dividerVertical = global::MemoryGame.Resource.Attribute.dividerVertical;
+			global::MODEL.Resource.Attribute.drawableBottomCompat = global::MemoryGame.Resource.Attribute.drawableBottomCompat;
+			global::MODEL.Resource.Attribute.drawableEndCompat = global::MemoryGame.Resource.Attribute.drawableEndCompat;
+			global::MODEL.Resource.Attribute.drawableLeftCompat = global::MemoryGame.Resource.Attribute.drawableLeftCompat;
+			global::MODEL.Resource.Attribute.drawableRightCompat = global::MemoryGame.Resource.Attribute.drawableRightCompat;
+			global::MODEL.Resource.Attribute.drawableSize = global::MemoryGame.Resource.Attribute.drawableSize;
+			global::MODEL.Resource.Attribute.drawableStartCompat = global::MemoryGame.Resource.Attribute.drawableStartCompat;
+			global::MODEL.Resource.Attribute.drawableTint = global::MemoryGame.Resource.Attribute.drawableTint;
+			global::MODEL.Resource.Attribute.drawableTintMode = global::MemoryGame.Resource.Attribute.drawableTintMode;
+			global::MODEL.Resource.Attribute.drawableTopCompat = global::MemoryGame.Resource.Attribute.drawableTopCompat;
+			global::MODEL.Resource.Attribute.drawerArrowStyle = global::MemoryGame.Resource.Attribute.drawerArrowStyle;
+			global::MODEL.Resource.Attribute.drawerLayoutStyle = global::MemoryGame.Resource.Attribute.drawerLayoutStyle;
+			global::MODEL.Resource.Attribute.dropdownListPreferredItemHeight = global::MemoryGame.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::MODEL.Resource.Attribute.dropDownListViewStyle = global::MemoryGame.Resource.Attribute.dropDownListViewStyle;
+			global::MODEL.Resource.Attribute.editTextBackground = global::MemoryGame.Resource.Attribute.editTextBackground;
+			global::MODEL.Resource.Attribute.editTextColor = global::MemoryGame.Resource.Attribute.editTextColor;
+			global::MODEL.Resource.Attribute.editTextStyle = global::MemoryGame.Resource.Attribute.editTextStyle;
+			global::MODEL.Resource.Attribute.elevation = global::MemoryGame.Resource.Attribute.elevation;
+			global::MODEL.Resource.Attribute.expandActivityOverflowButtonDrawable = global::MemoryGame.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::MODEL.Resource.Attribute.firstBaselineToTopHeight = global::MemoryGame.Resource.Attribute.firstBaselineToTopHeight;
+			global::MODEL.Resource.Attribute.font = global::MemoryGame.Resource.Attribute.font;
+			global::MODEL.Resource.Attribute.fontFamily = global::MemoryGame.Resource.Attribute.fontFamily;
+			global::MODEL.Resource.Attribute.fontProviderAuthority = global::MemoryGame.Resource.Attribute.fontProviderAuthority;
+			global::MODEL.Resource.Attribute.fontProviderCerts = global::MemoryGame.Resource.Attribute.fontProviderCerts;
+			global::MODEL.Resource.Attribute.fontProviderFetchStrategy = global::MemoryGame.Resource.Attribute.fontProviderFetchStrategy;
+			global::MODEL.Resource.Attribute.fontProviderFetchTimeout = global::MemoryGame.Resource.Attribute.fontProviderFetchTimeout;
+			global::MODEL.Resource.Attribute.fontProviderPackage = global::MemoryGame.Resource.Attribute.fontProviderPackage;
+			global::MODEL.Resource.Attribute.fontProviderQuery = global::MemoryGame.Resource.Attribute.fontProviderQuery;
+			global::MODEL.Resource.Attribute.fontStyle = global::MemoryGame.Resource.Attribute.fontStyle;
+			global::MODEL.Resource.Attribute.fontVariationSettings = global::MemoryGame.Resource.Attribute.fontVariationSettings;
+			global::MODEL.Resource.Attribute.fontWeight = global::MemoryGame.Resource.Attribute.fontWeight;
+			global::MODEL.Resource.Attribute.gapBetweenBars = global::MemoryGame.Resource.Attribute.gapBetweenBars;
+			global::MODEL.Resource.Attribute.goIcon = global::MemoryGame.Resource.Attribute.goIcon;
+			global::MODEL.Resource.Attribute.height = global::MemoryGame.Resource.Attribute.height;
+			global::MODEL.Resource.Attribute.hideOnContentScroll = global::MemoryGame.Resource.Attribute.hideOnContentScroll;
+			global::MODEL.Resource.Attribute.homeAsUpIndicator = global::MemoryGame.Resource.Attribute.homeAsUpIndicator;
+			global::MODEL.Resource.Attribute.homeLayout = global::MemoryGame.Resource.Attribute.homeLayout;
+			global::MODEL.Resource.Attribute.icon = global::MemoryGame.Resource.Attribute.icon;
+			global::MODEL.Resource.Attribute.iconifiedByDefault = global::MemoryGame.Resource.Attribute.iconifiedByDefault;
+			global::MODEL.Resource.Attribute.iconTint = global::MemoryGame.Resource.Attribute.iconTint;
+			global::MODEL.Resource.Attribute.iconTintMode = global::MemoryGame.Resource.Attribute.iconTintMode;
+			global::MODEL.Resource.Attribute.imageButtonStyle = global::MemoryGame.Resource.Attribute.imageButtonStyle;
+			global::MODEL.Resource.Attribute.indeterminateProgressStyle = global::MemoryGame.Resource.Attribute.indeterminateProgressStyle;
+			global::MODEL.Resource.Attribute.initialActivityCount = global::MemoryGame.Resource.Attribute.initialActivityCount;
+			global::MODEL.Resource.Attribute.isLightTheme = global::MemoryGame.Resource.Attribute.isLightTheme;
+			global::MODEL.Resource.Attribute.itemPadding = global::MemoryGame.Resource.Attribute.itemPadding;
+			global::MODEL.Resource.Attribute.lastBaselineToBottomHeight = global::MemoryGame.Resource.Attribute.lastBaselineToBottomHeight;
+			global::MODEL.Resource.Attribute.layout = global::MemoryGame.Resource.Attribute.layout;
+			global::MODEL.Resource.Attribute.lineHeight = global::MemoryGame.Resource.Attribute.lineHeight;
+			global::MODEL.Resource.Attribute.listChoiceBackgroundIndicator = global::MemoryGame.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::MODEL.Resource.Attribute.listChoiceIndicatorMultipleAnimated = global::MemoryGame.Resource.Attribute.listChoiceIndicatorMultipleAnimated;
+			global::MODEL.Resource.Attribute.listChoiceIndicatorSingleAnimated = global::MemoryGame.Resource.Attribute.listChoiceIndicatorSingleAnimated;
+			global::MODEL.Resource.Attribute.listDividerAlertDialog = global::MemoryGame.Resource.Attribute.listDividerAlertDialog;
+			global::MODEL.Resource.Attribute.listItemLayout = global::MemoryGame.Resource.Attribute.listItemLayout;
+			global::MODEL.Resource.Attribute.listLayout = global::MemoryGame.Resource.Attribute.listLayout;
+			global::MODEL.Resource.Attribute.listMenuViewStyle = global::MemoryGame.Resource.Attribute.listMenuViewStyle;
+			global::MODEL.Resource.Attribute.listPopupWindowStyle = global::MemoryGame.Resource.Attribute.listPopupWindowStyle;
+			global::MODEL.Resource.Attribute.listPreferredItemHeight = global::MemoryGame.Resource.Attribute.listPreferredItemHeight;
+			global::MODEL.Resource.Attribute.listPreferredItemHeightLarge = global::MemoryGame.Resource.Attribute.listPreferredItemHeightLarge;
+			global::MODEL.Resource.Attribute.listPreferredItemHeightSmall = global::MemoryGame.Resource.Attribute.listPreferredItemHeightSmall;
+			global::MODEL.Resource.Attribute.listPreferredItemPaddingEnd = global::MemoryGame.Resource.Attribute.listPreferredItemPaddingEnd;
+			global::MODEL.Resource.Attribute.listPreferredItemPaddingLeft = global::MemoryGame.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::MODEL.Resource.Attribute.listPreferredItemPaddingRight = global::MemoryGame.Resource.Attribute.listPreferredItemPaddingRight;
+			global::MODEL.Resource.Attribute.listPreferredItemPaddingStart = global::MemoryGame.Resource.Attribute.listPreferredItemPaddingStart;
+			global::MODEL.Resource.Attribute.logo = global::MemoryGame.Resource.Attribute.logo;
+			global::MODEL.Resource.Attribute.logoDescription = global::MemoryGame.Resource.Attribute.logoDescription;
+			global::MODEL.Resource.Attribute.maxButtonHeight = global::MemoryGame.Resource.Attribute.maxButtonHeight;
+			global::MODEL.Resource.Attribute.measureWithLargestChild = global::MemoryGame.Resource.Attribute.measureWithLargestChild;
+			global::MODEL.Resource.Attribute.menu = global::MemoryGame.Resource.Attribute.menu;
+			global::MODEL.Resource.Attribute.multiChoiceItemLayout = global::MemoryGame.Resource.Attribute.multiChoiceItemLayout;
+			global::MODEL.Resource.Attribute.navigationContentDescription = global::MemoryGame.Resource.Attribute.navigationContentDescription;
+			global::MODEL.Resource.Attribute.navigationIcon = global::MemoryGame.Resource.Attribute.navigationIcon;
+			global::MODEL.Resource.Attribute.navigationMode = global::MemoryGame.Resource.Attribute.navigationMode;
+			global::MODEL.Resource.Attribute.numericModifiers = global::MemoryGame.Resource.Attribute.numericModifiers;
+			global::MODEL.Resource.Attribute.overlapAnchor = global::MemoryGame.Resource.Attribute.overlapAnchor;
+			global::MODEL.Resource.Attribute.paddingBottomNoButtons = global::MemoryGame.Resource.Attribute.paddingBottomNoButtons;
+			global::MODEL.Resource.Attribute.paddingEnd = global::MemoryGame.Resource.Attribute.paddingEnd;
+			global::MODEL.Resource.Attribute.paddingStart = global::MemoryGame.Resource.Attribute.paddingStart;
+			global::MODEL.Resource.Attribute.paddingTopNoTitle = global::MemoryGame.Resource.Attribute.paddingTopNoTitle;
+			global::MODEL.Resource.Attribute.panelBackground = global::MemoryGame.Resource.Attribute.panelBackground;
+			global::MODEL.Resource.Attribute.panelMenuListTheme = global::MemoryGame.Resource.Attribute.panelMenuListTheme;
+			global::MODEL.Resource.Attribute.panelMenuListWidth = global::MemoryGame.Resource.Attribute.panelMenuListWidth;
+			global::MODEL.Resource.Attribute.popupMenuStyle = global::MemoryGame.Resource.Attribute.popupMenuStyle;
+			global::MODEL.Resource.Attribute.popupTheme = global::MemoryGame.Resource.Attribute.popupTheme;
+			global::MODEL.Resource.Attribute.popupWindowStyle = global::MemoryGame.Resource.Attribute.popupWindowStyle;
+			global::MODEL.Resource.Attribute.preserveIconSpacing = global::MemoryGame.Resource.Attribute.preserveIconSpacing;
+			global::MODEL.Resource.Attribute.progressBarPadding = global::MemoryGame.Resource.Attribute.progressBarPadding;
+			global::MODEL.Resource.Attribute.progressBarStyle = global::MemoryGame.Resource.Attribute.progressBarStyle;
+			global::MODEL.Resource.Attribute.queryBackground = global::MemoryGame.Resource.Attribute.queryBackground;
+			global::MODEL.Resource.Attribute.queryHint = global::MemoryGame.Resource.Attribute.queryHint;
+			global::MODEL.Resource.Attribute.radioButtonStyle = global::MemoryGame.Resource.Attribute.radioButtonStyle;
+			global::MODEL.Resource.Attribute.ratingBarStyle = global::MemoryGame.Resource.Attribute.ratingBarStyle;
+			global::MODEL.Resource.Attribute.ratingBarStyleIndicator = global::MemoryGame.Resource.Attribute.ratingBarStyleIndicator;
+			global::MODEL.Resource.Attribute.ratingBarStyleSmall = global::MemoryGame.Resource.Attribute.ratingBarStyleSmall;
+			global::MODEL.Resource.Attribute.searchHintIcon = global::MemoryGame.Resource.Attribute.searchHintIcon;
+			global::MODEL.Resource.Attribute.searchIcon = global::MemoryGame.Resource.Attribute.searchIcon;
+			global::MODEL.Resource.Attribute.searchViewStyle = global::MemoryGame.Resource.Attribute.searchViewStyle;
+			global::MODEL.Resource.Attribute.seekBarStyle = global::MemoryGame.Resource.Attribute.seekBarStyle;
+			global::MODEL.Resource.Attribute.selectableItemBackground = global::MemoryGame.Resource.Attribute.selectableItemBackground;
+			global::MODEL.Resource.Attribute.selectableItemBackgroundBorderless = global::MemoryGame.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::MODEL.Resource.Attribute.showAsAction = global::MemoryGame.Resource.Attribute.showAsAction;
+			global::MODEL.Resource.Attribute.showDividers = global::MemoryGame.Resource.Attribute.showDividers;
+			global::MODEL.Resource.Attribute.showText = global::MemoryGame.Resource.Attribute.showText;
+			global::MODEL.Resource.Attribute.showTitle = global::MemoryGame.Resource.Attribute.showTitle;
+			global::MODEL.Resource.Attribute.singleChoiceItemLayout = global::MemoryGame.Resource.Attribute.singleChoiceItemLayout;
+			global::MODEL.Resource.Attribute.spinBars = global::MemoryGame.Resource.Attribute.spinBars;
+			global::MODEL.Resource.Attribute.spinnerDropDownItemStyle = global::MemoryGame.Resource.Attribute.spinnerDropDownItemStyle;
+			global::MODEL.Resource.Attribute.spinnerStyle = global::MemoryGame.Resource.Attribute.spinnerStyle;
+			global::MODEL.Resource.Attribute.splitTrack = global::MemoryGame.Resource.Attribute.splitTrack;
+			global::MODEL.Resource.Attribute.srcCompat = global::MemoryGame.Resource.Attribute.srcCompat;
+			global::MODEL.Resource.Attribute.state_above_anchor = global::MemoryGame.Resource.Attribute.state_above_anchor;
+			global::MODEL.Resource.Attribute.subMenuArrow = global::MemoryGame.Resource.Attribute.subMenuArrow;
+			global::MODEL.Resource.Attribute.submitBackground = global::MemoryGame.Resource.Attribute.submitBackground;
+			global::MODEL.Resource.Attribute.subtitle = global::MemoryGame.Resource.Attribute.subtitle;
+			global::MODEL.Resource.Attribute.subtitleTextAppearance = global::MemoryGame.Resource.Attribute.subtitleTextAppearance;
+			global::MODEL.Resource.Attribute.subtitleTextColor = global::MemoryGame.Resource.Attribute.subtitleTextColor;
+			global::MODEL.Resource.Attribute.subtitleTextStyle = global::MemoryGame.Resource.Attribute.subtitleTextStyle;
+			global::MODEL.Resource.Attribute.suggestionRowLayout = global::MemoryGame.Resource.Attribute.suggestionRowLayout;
+			global::MODEL.Resource.Attribute.switchMinWidth = global::MemoryGame.Resource.Attribute.switchMinWidth;
+			global::MODEL.Resource.Attribute.switchPadding = global::MemoryGame.Resource.Attribute.switchPadding;
+			global::MODEL.Resource.Attribute.switchStyle = global::MemoryGame.Resource.Attribute.switchStyle;
+			global::MODEL.Resource.Attribute.switchTextAppearance = global::MemoryGame.Resource.Attribute.switchTextAppearance;
+			global::MODEL.Resource.Attribute.textAllCaps = global::MemoryGame.Resource.Attribute.textAllCaps;
+			global::MODEL.Resource.Attribute.textAppearanceLargePopupMenu = global::MemoryGame.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::MODEL.Resource.Attribute.textAppearanceListItem = global::MemoryGame.Resource.Attribute.textAppearanceListItem;
+			global::MODEL.Resource.Attribute.textAppearanceListItemSecondary = global::MemoryGame.Resource.Attribute.textAppearanceListItemSecondary;
+			global::MODEL.Resource.Attribute.textAppearanceListItemSmall = global::MemoryGame.Resource.Attribute.textAppearanceListItemSmall;
+			global::MODEL.Resource.Attribute.textAppearancePopupMenuHeader = global::MemoryGame.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::MODEL.Resource.Attribute.textAppearanceSearchResultSubtitle = global::MemoryGame.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::MODEL.Resource.Attribute.textAppearanceSearchResultTitle = global::MemoryGame.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::MODEL.Resource.Attribute.textAppearanceSmallPopupMenu = global::MemoryGame.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::MODEL.Resource.Attribute.textColorAlertDialogListItem = global::MemoryGame.Resource.Attribute.textColorAlertDialogListItem;
+			global::MODEL.Resource.Attribute.textColorSearchUrl = global::MemoryGame.Resource.Attribute.textColorSearchUrl;
+			global::MODEL.Resource.Attribute.textLocale = global::MemoryGame.Resource.Attribute.textLocale;
+			global::MODEL.Resource.Attribute.theme = global::MemoryGame.Resource.Attribute.theme;
+			global::MODEL.Resource.Attribute.thickness = global::MemoryGame.Resource.Attribute.thickness;
+			global::MODEL.Resource.Attribute.thumbTextPadding = global::MemoryGame.Resource.Attribute.thumbTextPadding;
+			global::MODEL.Resource.Attribute.thumbTint = global::MemoryGame.Resource.Attribute.thumbTint;
+			global::MODEL.Resource.Attribute.thumbTintMode = global::MemoryGame.Resource.Attribute.thumbTintMode;
+			global::MODEL.Resource.Attribute.tickMark = global::MemoryGame.Resource.Attribute.tickMark;
+			global::MODEL.Resource.Attribute.tickMarkTint = global::MemoryGame.Resource.Attribute.tickMarkTint;
+			global::MODEL.Resource.Attribute.tickMarkTintMode = global::MemoryGame.Resource.Attribute.tickMarkTintMode;
+			global::MODEL.Resource.Attribute.tint = global::MemoryGame.Resource.Attribute.tint;
+			global::MODEL.Resource.Attribute.tintMode = global::MemoryGame.Resource.Attribute.tintMode;
+			global::MODEL.Resource.Attribute.title = global::MemoryGame.Resource.Attribute.title;
+			global::MODEL.Resource.Attribute.titleMargin = global::MemoryGame.Resource.Attribute.titleMargin;
+			global::MODEL.Resource.Attribute.titleMarginBottom = global::MemoryGame.Resource.Attribute.titleMarginBottom;
+			global::MODEL.Resource.Attribute.titleMarginEnd = global::MemoryGame.Resource.Attribute.titleMarginEnd;
+			global::MODEL.Resource.Attribute.titleMargins = global::MemoryGame.Resource.Attribute.titleMargins;
+			global::MODEL.Resource.Attribute.titleMarginStart = global::MemoryGame.Resource.Attribute.titleMarginStart;
+			global::MODEL.Resource.Attribute.titleMarginTop = global::MemoryGame.Resource.Attribute.titleMarginTop;
+			global::MODEL.Resource.Attribute.titleTextAppearance = global::MemoryGame.Resource.Attribute.titleTextAppearance;
+			global::MODEL.Resource.Attribute.titleTextColor = global::MemoryGame.Resource.Attribute.titleTextColor;
+			global::MODEL.Resource.Attribute.titleTextStyle = global::MemoryGame.Resource.Attribute.titleTextStyle;
+			global::MODEL.Resource.Attribute.toolbarNavigationButtonStyle = global::MemoryGame.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::MODEL.Resource.Attribute.toolbarStyle = global::MemoryGame.Resource.Attribute.toolbarStyle;
+			global::MODEL.Resource.Attribute.tooltipForegroundColor = global::MemoryGame.Resource.Attribute.tooltipForegroundColor;
+			global::MODEL.Resource.Attribute.tooltipFrameBackground = global::MemoryGame.Resource.Attribute.tooltipFrameBackground;
+			global::MODEL.Resource.Attribute.tooltipText = global::MemoryGame.Resource.Attribute.tooltipText;
+			global::MODEL.Resource.Attribute.track = global::MemoryGame.Resource.Attribute.track;
+			global::MODEL.Resource.Attribute.trackTint = global::MemoryGame.Resource.Attribute.trackTint;
+			global::MODEL.Resource.Attribute.trackTintMode = global::MemoryGame.Resource.Attribute.trackTintMode;
+			global::MODEL.Resource.Attribute.ttcIndex = global::MemoryGame.Resource.Attribute.ttcIndex;
+			global::MODEL.Resource.Attribute.viewInflaterClass = global::MemoryGame.Resource.Attribute.viewInflaterClass;
+			global::MODEL.Resource.Attribute.voiceIcon = global::MemoryGame.Resource.Attribute.voiceIcon;
+			global::MODEL.Resource.Attribute.windowActionBar = global::MemoryGame.Resource.Attribute.windowActionBar;
+			global::MODEL.Resource.Attribute.windowActionBarOverlay = global::MemoryGame.Resource.Attribute.windowActionBarOverlay;
+			global::MODEL.Resource.Attribute.windowActionModeOverlay = global::MemoryGame.Resource.Attribute.windowActionModeOverlay;
+			global::MODEL.Resource.Attribute.windowFixedHeightMajor = global::MemoryGame.Resource.Attribute.windowFixedHeightMajor;
+			global::MODEL.Resource.Attribute.windowFixedHeightMinor = global::MemoryGame.Resource.Attribute.windowFixedHeightMinor;
+			global::MODEL.Resource.Attribute.windowFixedWidthMajor = global::MemoryGame.Resource.Attribute.windowFixedWidthMajor;
+			global::MODEL.Resource.Attribute.windowFixedWidthMinor = global::MemoryGame.Resource.Attribute.windowFixedWidthMinor;
+			global::MODEL.Resource.Attribute.windowMinWidthMajor = global::MemoryGame.Resource.Attribute.windowMinWidthMajor;
+			global::MODEL.Resource.Attribute.windowMinWidthMinor = global::MemoryGame.Resource.Attribute.windowMinWidthMinor;
+			global::MODEL.Resource.Attribute.windowNoTitle = global::MemoryGame.Resource.Attribute.windowNoTitle;
+			global::MODEL.Resource.Boolean.abc_action_bar_embed_tabs = global::MemoryGame.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::MODEL.Resource.Boolean.abc_allow_stacked_button_bar = global::MemoryGame.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::MODEL.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::MemoryGame.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::MODEL.Resource.Color.abc_background_cache_hint_selector_material_dark = global::MemoryGame.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::MODEL.Resource.Color.abc_background_cache_hint_selector_material_light = global::MemoryGame.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::MODEL.Resource.Color.abc_btn_colored_borderless_text_material = global::MemoryGame.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::MODEL.Resource.Color.abc_btn_colored_text_material = global::MemoryGame.Resource.Color.abc_btn_colored_text_material;
+			global::MODEL.Resource.Color.abc_color_highlight_material = global::MemoryGame.Resource.Color.abc_color_highlight_material;
+			global::MODEL.Resource.Color.abc_decor_view_status_guard = global::MemoryGame.Resource.Color.abc_decor_view_status_guard;
+			global::MODEL.Resource.Color.abc_decor_view_status_guard_light = global::MemoryGame.Resource.Color.abc_decor_view_status_guard_light;
+			global::MODEL.Resource.Color.abc_hint_foreground_material_dark = global::MemoryGame.Resource.Color.abc_hint_foreground_material_dark;
+			global::MODEL.Resource.Color.abc_hint_foreground_material_light = global::MemoryGame.Resource.Color.abc_hint_foreground_material_light;
+			global::MODEL.Resource.Color.abc_primary_text_disable_only_material_dark = global::MemoryGame.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::MODEL.Resource.Color.abc_primary_text_disable_only_material_light = global::MemoryGame.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::MODEL.Resource.Color.abc_primary_text_material_dark = global::MemoryGame.Resource.Color.abc_primary_text_material_dark;
+			global::MODEL.Resource.Color.abc_primary_text_material_light = global::MemoryGame.Resource.Color.abc_primary_text_material_light;
+			global::MODEL.Resource.Color.abc_search_url_text = global::MemoryGame.Resource.Color.abc_search_url_text;
+			global::MODEL.Resource.Color.abc_search_url_text_normal = global::MemoryGame.Resource.Color.abc_search_url_text_normal;
+			global::MODEL.Resource.Color.abc_search_url_text_pressed = global::MemoryGame.Resource.Color.abc_search_url_text_pressed;
+			global::MODEL.Resource.Color.abc_search_url_text_selected = global::MemoryGame.Resource.Color.abc_search_url_text_selected;
+			global::MODEL.Resource.Color.abc_secondary_text_material_dark = global::MemoryGame.Resource.Color.abc_secondary_text_material_dark;
+			global::MODEL.Resource.Color.abc_secondary_text_material_light = global::MemoryGame.Resource.Color.abc_secondary_text_material_light;
+			global::MODEL.Resource.Color.abc_tint_btn_checkable = global::MemoryGame.Resource.Color.abc_tint_btn_checkable;
+			global::MODEL.Resource.Color.abc_tint_default = global::MemoryGame.Resource.Color.abc_tint_default;
+			global::MODEL.Resource.Color.abc_tint_edittext = global::MemoryGame.Resource.Color.abc_tint_edittext;
+			global::MODEL.Resource.Color.abc_tint_seek_thumb = global::MemoryGame.Resource.Color.abc_tint_seek_thumb;
+			global::MODEL.Resource.Color.abc_tint_spinner = global::MemoryGame.Resource.Color.abc_tint_spinner;
+			global::MODEL.Resource.Color.abc_tint_switch_track = global::MemoryGame.Resource.Color.abc_tint_switch_track;
+			global::MODEL.Resource.Color.accent_material_dark = global::MemoryGame.Resource.Color.accent_material_dark;
+			global::MODEL.Resource.Color.accent_material_light = global::MemoryGame.Resource.Color.accent_material_light;
+			global::MODEL.Resource.Color.androidx_core_ripple_material_light = global::MemoryGame.Resource.Color.androidx_core_ripple_material_light;
+			global::MODEL.Resource.Color.androidx_core_secondary_text_default_material_light = global::MemoryGame.Resource.Color.androidx_core_secondary_text_default_material_light;
+			global::MODEL.Resource.Color.background_floating_material_dark = global::MemoryGame.Resource.Color.background_floating_material_dark;
+			global::MODEL.Resource.Color.background_floating_material_light = global::MemoryGame.Resource.Color.background_floating_material_light;
+			global::MODEL.Resource.Color.background_material_dark = global::MemoryGame.Resource.Color.background_material_dark;
+			global::MODEL.Resource.Color.background_material_light = global::MemoryGame.Resource.Color.background_material_light;
+			global::MODEL.Resource.Color.bright_foreground_disabled_material_dark = global::MemoryGame.Resource.Color.bright_foreground_disabled_material_dark;
+			global::MODEL.Resource.Color.bright_foreground_disabled_material_light = global::MemoryGame.Resource.Color.bright_foreground_disabled_material_light;
+			global::MODEL.Resource.Color.bright_foreground_inverse_material_dark = global::MemoryGame.Resource.Color.bright_foreground_inverse_material_dark;
+			global::MODEL.Resource.Color.bright_foreground_inverse_material_light = global::MemoryGame.Resource.Color.bright_foreground_inverse_material_light;
+			global::MODEL.Resource.Color.bright_foreground_material_dark = global::MemoryGame.Resource.Color.bright_foreground_material_dark;
+			global::MODEL.Resource.Color.bright_foreground_material_light = global::MemoryGame.Resource.Color.bright_foreground_material_light;
+			global::MODEL.Resource.Color.button_material_dark = global::MemoryGame.Resource.Color.button_material_dark;
+			global::MODEL.Resource.Color.button_material_light = global::MemoryGame.Resource.Color.button_material_light;
+			global::MODEL.Resource.Color.dim_foreground_disabled_material_dark = global::MemoryGame.Resource.Color.dim_foreground_disabled_material_dark;
+			global::MODEL.Resource.Color.dim_foreground_disabled_material_light = global::MemoryGame.Resource.Color.dim_foreground_disabled_material_light;
+			global::MODEL.Resource.Color.dim_foreground_material_dark = global::MemoryGame.Resource.Color.dim_foreground_material_dark;
+			global::MODEL.Resource.Color.dim_foreground_material_light = global::MemoryGame.Resource.Color.dim_foreground_material_light;
+			global::MODEL.Resource.Color.error_color_material_dark = global::MemoryGame.Resource.Color.error_color_material_dark;
+			global::MODEL.Resource.Color.error_color_material_light = global::MemoryGame.Resource.Color.error_color_material_light;
+			global::MODEL.Resource.Color.foreground_material_dark = global::MemoryGame.Resource.Color.foreground_material_dark;
+			global::MODEL.Resource.Color.foreground_material_light = global::MemoryGame.Resource.Color.foreground_material_light;
+			global::MODEL.Resource.Color.highlighted_text_material_dark = global::MemoryGame.Resource.Color.highlighted_text_material_dark;
+			global::MODEL.Resource.Color.highlighted_text_material_light = global::MemoryGame.Resource.Color.highlighted_text_material_light;
+			global::MODEL.Resource.Color.material_blue_grey_800 = global::MemoryGame.Resource.Color.material_blue_grey_800;
+			global::MODEL.Resource.Color.material_blue_grey_900 = global::MemoryGame.Resource.Color.material_blue_grey_900;
+			global::MODEL.Resource.Color.material_blue_grey_950 = global::MemoryGame.Resource.Color.material_blue_grey_950;
+			global::MODEL.Resource.Color.material_deep_teal_200 = global::MemoryGame.Resource.Color.material_deep_teal_200;
+			global::MODEL.Resource.Color.material_deep_teal_500 = global::MemoryGame.Resource.Color.material_deep_teal_500;
+			global::MODEL.Resource.Color.material_grey_100 = global::MemoryGame.Resource.Color.material_grey_100;
+			global::MODEL.Resource.Color.material_grey_300 = global::MemoryGame.Resource.Color.material_grey_300;
+			global::MODEL.Resource.Color.material_grey_50 = global::MemoryGame.Resource.Color.material_grey_50;
+			global::MODEL.Resource.Color.material_grey_600 = global::MemoryGame.Resource.Color.material_grey_600;
+			global::MODEL.Resource.Color.material_grey_800 = global::MemoryGame.Resource.Color.material_grey_800;
+			global::MODEL.Resource.Color.material_grey_850 = global::MemoryGame.Resource.Color.material_grey_850;
+			global::MODEL.Resource.Color.material_grey_900 = global::MemoryGame.Resource.Color.material_grey_900;
+			global::MODEL.Resource.Color.notification_action_color_filter = global::MemoryGame.Resource.Color.notification_action_color_filter;
+			global::MODEL.Resource.Color.notification_icon_bg_color = global::MemoryGame.Resource.Color.notification_icon_bg_color;
+			global::MODEL.Resource.Color.primary_dark_material_dark = global::MemoryGame.Resource.Color.primary_dark_material_dark;
+			global::MODEL.Resource.Color.primary_dark_material_light = global::MemoryGame.Resource.Color.primary_dark_material_light;
+			global::MODEL.Resource.Color.primary_material_dark = global::MemoryGame.Resource.Color.primary_material_dark;
+			global::MODEL.Resource.Color.primary_material_light = global::MemoryGame.Resource.Color.primary_material_light;
+			global::MODEL.Resource.Color.primary_text_default_material_dark = global::MemoryGame.Resource.Color.primary_text_default_material_dark;
+			global::MODEL.Resource.Color.primary_text_default_material_light = global::MemoryGame.Resource.Color.primary_text_default_material_light;
+			global::MODEL.Resource.Color.primary_text_disabled_material_dark = global::MemoryGame.Resource.Color.primary_text_disabled_material_dark;
+			global::MODEL.Resource.Color.primary_text_disabled_material_light = global::MemoryGame.Resource.Color.primary_text_disabled_material_light;
+			global::MODEL.Resource.Color.ripple_material_dark = global::MemoryGame.Resource.Color.ripple_material_dark;
+			global::MODEL.Resource.Color.ripple_material_light = global::MemoryGame.Resource.Color.ripple_material_light;
+			global::MODEL.Resource.Color.secondary_text_default_material_dark = global::MemoryGame.Resource.Color.secondary_text_default_material_dark;
+			global::MODEL.Resource.Color.secondary_text_default_material_light = global::MemoryGame.Resource.Color.secondary_text_default_material_light;
+			global::MODEL.Resource.Color.secondary_text_disabled_material_dark = global::MemoryGame.Resource.Color.secondary_text_disabled_material_dark;
+			global::MODEL.Resource.Color.secondary_text_disabled_material_light = global::MemoryGame.Resource.Color.secondary_text_disabled_material_light;
+			global::MODEL.Resource.Color.switch_thumb_disabled_material_dark = global::MemoryGame.Resource.Color.switch_thumb_disabled_material_dark;
+			global::MODEL.Resource.Color.switch_thumb_disabled_material_light = global::MemoryGame.Resource.Color.switch_thumb_disabled_material_light;
+			global::MODEL.Resource.Color.switch_thumb_material_dark = global::MemoryGame.Resource.Color.switch_thumb_material_dark;
+			global::MODEL.Resource.Color.switch_thumb_material_light = global::MemoryGame.Resource.Color.switch_thumb_material_light;
+			global::MODEL.Resource.Color.switch_thumb_normal_material_dark = global::MemoryGame.Resource.Color.switch_thumb_normal_material_dark;
+			global::MODEL.Resource.Color.switch_thumb_normal_material_light = global::MemoryGame.Resource.Color.switch_thumb_normal_material_light;
+			global::MODEL.Resource.Color.tooltip_background_dark = global::MemoryGame.Resource.Color.tooltip_background_dark;
+			global::MODEL.Resource.Color.tooltip_background_light = global::MemoryGame.Resource.Color.tooltip_background_light;
+			global::MODEL.Resource.Dimension.abc_action_bar_content_inset_material = global::MemoryGame.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::MODEL.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::MemoryGame.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::MODEL.Resource.Dimension.abc_action_bar_default_height_material = global::MemoryGame.Resource.Dimension.abc_action_bar_default_height_material;
+			global::MODEL.Resource.Dimension.abc_action_bar_default_padding_end_material = global::MemoryGame.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::MODEL.Resource.Dimension.abc_action_bar_default_padding_start_material = global::MemoryGame.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::MODEL.Resource.Dimension.abc_action_bar_elevation_material = global::MemoryGame.Resource.Dimension.abc_action_bar_elevation_material;
+			global::MODEL.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::MemoryGame.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::MODEL.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::MemoryGame.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::MODEL.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::MemoryGame.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::MODEL.Resource.Dimension.abc_action_bar_stacked_max_height = global::MemoryGame.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::MODEL.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::MemoryGame.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::MODEL.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::MemoryGame.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::MODEL.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::MemoryGame.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::MODEL.Resource.Dimension.abc_action_button_min_height_material = global::MemoryGame.Resource.Dimension.abc_action_button_min_height_material;
+			global::MODEL.Resource.Dimension.abc_action_button_min_width_material = global::MemoryGame.Resource.Dimension.abc_action_button_min_width_material;
+			global::MODEL.Resource.Dimension.abc_action_button_min_width_overflow_material = global::MemoryGame.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::MODEL.Resource.Dimension.abc_alert_dialog_button_bar_height = global::MemoryGame.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::MODEL.Resource.Dimension.abc_alert_dialog_button_dimen = global::MemoryGame.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::MODEL.Resource.Dimension.abc_button_inset_horizontal_material = global::MemoryGame.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::MODEL.Resource.Dimension.abc_button_inset_vertical_material = global::MemoryGame.Resource.Dimension.abc_button_inset_vertical_material;
+			global::MODEL.Resource.Dimension.abc_button_padding_horizontal_material = global::MemoryGame.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::MODEL.Resource.Dimension.abc_button_padding_vertical_material = global::MemoryGame.Resource.Dimension.abc_button_padding_vertical_material;
+			global::MODEL.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::MemoryGame.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::MODEL.Resource.Dimension.abc_config_prefDialogWidth = global::MemoryGame.Resource.Dimension.abc_config_prefDialogWidth;
+			global::MODEL.Resource.Dimension.abc_control_corner_material = global::MemoryGame.Resource.Dimension.abc_control_corner_material;
+			global::MODEL.Resource.Dimension.abc_control_inset_material = global::MemoryGame.Resource.Dimension.abc_control_inset_material;
+			global::MODEL.Resource.Dimension.abc_control_padding_material = global::MemoryGame.Resource.Dimension.abc_control_padding_material;
+			global::MODEL.Resource.Dimension.abc_dialog_corner_radius_material = global::MemoryGame.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::MODEL.Resource.Dimension.abc_dialog_fixed_height_major = global::MemoryGame.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::MODEL.Resource.Dimension.abc_dialog_fixed_height_minor = global::MemoryGame.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::MODEL.Resource.Dimension.abc_dialog_fixed_width_major = global::MemoryGame.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::MODEL.Resource.Dimension.abc_dialog_fixed_width_minor = global::MemoryGame.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::MODEL.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::MemoryGame.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::MODEL.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::MemoryGame.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::MODEL.Resource.Dimension.abc_dialog_min_width_major = global::MemoryGame.Resource.Dimension.abc_dialog_min_width_major;
+			global::MODEL.Resource.Dimension.abc_dialog_min_width_minor = global::MemoryGame.Resource.Dimension.abc_dialog_min_width_minor;
+			global::MODEL.Resource.Dimension.abc_dialog_padding_material = global::MemoryGame.Resource.Dimension.abc_dialog_padding_material;
+			global::MODEL.Resource.Dimension.abc_dialog_padding_top_material = global::MemoryGame.Resource.Dimension.abc_dialog_padding_top_material;
+			global::MODEL.Resource.Dimension.abc_dialog_title_divider_material = global::MemoryGame.Resource.Dimension.abc_dialog_title_divider_material;
+			global::MODEL.Resource.Dimension.abc_disabled_alpha_material_dark = global::MemoryGame.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::MODEL.Resource.Dimension.abc_disabled_alpha_material_light = global::MemoryGame.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::MODEL.Resource.Dimension.abc_dropdownitem_icon_width = global::MemoryGame.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::MODEL.Resource.Dimension.abc_dropdownitem_text_padding_left = global::MemoryGame.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::MODEL.Resource.Dimension.abc_dropdownitem_text_padding_right = global::MemoryGame.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::MODEL.Resource.Dimension.abc_edit_text_inset_bottom_material = global::MemoryGame.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::MODEL.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::MemoryGame.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::MODEL.Resource.Dimension.abc_edit_text_inset_top_material = global::MemoryGame.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::MODEL.Resource.Dimension.abc_floating_window_z = global::MemoryGame.Resource.Dimension.abc_floating_window_z;
+			global::MODEL.Resource.Dimension.abc_list_item_height_large_material = global::MemoryGame.Resource.Dimension.abc_list_item_height_large_material;
+			global::MODEL.Resource.Dimension.abc_list_item_height_material = global::MemoryGame.Resource.Dimension.abc_list_item_height_material;
+			global::MODEL.Resource.Dimension.abc_list_item_height_small_material = global::MemoryGame.Resource.Dimension.abc_list_item_height_small_material;
+			global::MODEL.Resource.Dimension.abc_list_item_padding_horizontal_material = global::MemoryGame.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::MODEL.Resource.Dimension.abc_panel_menu_list_width = global::MemoryGame.Resource.Dimension.abc_panel_menu_list_width;
+			global::MODEL.Resource.Dimension.abc_progress_bar_height_material = global::MemoryGame.Resource.Dimension.abc_progress_bar_height_material;
+			global::MODEL.Resource.Dimension.abc_search_view_preferred_height = global::MemoryGame.Resource.Dimension.abc_search_view_preferred_height;
+			global::MODEL.Resource.Dimension.abc_search_view_preferred_width = global::MemoryGame.Resource.Dimension.abc_search_view_preferred_width;
+			global::MODEL.Resource.Dimension.abc_seekbar_track_background_height_material = global::MemoryGame.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::MODEL.Resource.Dimension.abc_seekbar_track_progress_height_material = global::MemoryGame.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::MODEL.Resource.Dimension.abc_select_dialog_padding_start_material = global::MemoryGame.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::MODEL.Resource.Dimension.abc_switch_padding = global::MemoryGame.Resource.Dimension.abc_switch_padding;
+			global::MODEL.Resource.Dimension.abc_text_size_body_1_material = global::MemoryGame.Resource.Dimension.abc_text_size_body_1_material;
+			global::MODEL.Resource.Dimension.abc_text_size_body_2_material = global::MemoryGame.Resource.Dimension.abc_text_size_body_2_material;
+			global::MODEL.Resource.Dimension.abc_text_size_button_material = global::MemoryGame.Resource.Dimension.abc_text_size_button_material;
+			global::MODEL.Resource.Dimension.abc_text_size_caption_material = global::MemoryGame.Resource.Dimension.abc_text_size_caption_material;
+			global::MODEL.Resource.Dimension.abc_text_size_display_1_material = global::MemoryGame.Resource.Dimension.abc_text_size_display_1_material;
+			global::MODEL.Resource.Dimension.abc_text_size_display_2_material = global::MemoryGame.Resource.Dimension.abc_text_size_display_2_material;
+			global::MODEL.Resource.Dimension.abc_text_size_display_3_material = global::MemoryGame.Resource.Dimension.abc_text_size_display_3_material;
+			global::MODEL.Resource.Dimension.abc_text_size_display_4_material = global::MemoryGame.Resource.Dimension.abc_text_size_display_4_material;
+			global::MODEL.Resource.Dimension.abc_text_size_headline_material = global::MemoryGame.Resource.Dimension.abc_text_size_headline_material;
+			global::MODEL.Resource.Dimension.abc_text_size_large_material = global::MemoryGame.Resource.Dimension.abc_text_size_large_material;
+			global::MODEL.Resource.Dimension.abc_text_size_medium_material = global::MemoryGame.Resource.Dimension.abc_text_size_medium_material;
+			global::MODEL.Resource.Dimension.abc_text_size_menu_header_material = global::MemoryGame.Resource.Dimension.abc_text_size_menu_header_material;
+			global::MODEL.Resource.Dimension.abc_text_size_menu_material = global::MemoryGame.Resource.Dimension.abc_text_size_menu_material;
+			global::MODEL.Resource.Dimension.abc_text_size_small_material = global::MemoryGame.Resource.Dimension.abc_text_size_small_material;
+			global::MODEL.Resource.Dimension.abc_text_size_subhead_material = global::MemoryGame.Resource.Dimension.abc_text_size_subhead_material;
+			global::MODEL.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::MemoryGame.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::MODEL.Resource.Dimension.abc_text_size_title_material = global::MemoryGame.Resource.Dimension.abc_text_size_title_material;
+			global::MODEL.Resource.Dimension.abc_text_size_title_material_toolbar = global::MemoryGame.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::MODEL.Resource.Dimension.compat_button_inset_horizontal_material = global::MemoryGame.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::MODEL.Resource.Dimension.compat_button_inset_vertical_material = global::MemoryGame.Resource.Dimension.compat_button_inset_vertical_material;
+			global::MODEL.Resource.Dimension.compat_button_padding_horizontal_material = global::MemoryGame.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::MODEL.Resource.Dimension.compat_button_padding_vertical_material = global::MemoryGame.Resource.Dimension.compat_button_padding_vertical_material;
+			global::MODEL.Resource.Dimension.compat_control_corner_material = global::MemoryGame.Resource.Dimension.compat_control_corner_material;
+			global::MODEL.Resource.Dimension.compat_notification_large_icon_max_height = global::MemoryGame.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::MODEL.Resource.Dimension.compat_notification_large_icon_max_width = global::MemoryGame.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::MODEL.Resource.Dimension.def_drawer_elevation = global::MemoryGame.Resource.Dimension.def_drawer_elevation;
+			global::MODEL.Resource.Dimension.disabled_alpha_material_dark = global::MemoryGame.Resource.Dimension.disabled_alpha_material_dark;
+			global::MODEL.Resource.Dimension.disabled_alpha_material_light = global::MemoryGame.Resource.Dimension.disabled_alpha_material_light;
+			global::MODEL.Resource.Dimension.highlight_alpha_material_colored = global::MemoryGame.Resource.Dimension.highlight_alpha_material_colored;
+			global::MODEL.Resource.Dimension.highlight_alpha_material_dark = global::MemoryGame.Resource.Dimension.highlight_alpha_material_dark;
+			global::MODEL.Resource.Dimension.highlight_alpha_material_light = global::MemoryGame.Resource.Dimension.highlight_alpha_material_light;
+			global::MODEL.Resource.Dimension.hint_alpha_material_dark = global::MemoryGame.Resource.Dimension.hint_alpha_material_dark;
+			global::MODEL.Resource.Dimension.hint_alpha_material_light = global::MemoryGame.Resource.Dimension.hint_alpha_material_light;
+			global::MODEL.Resource.Dimension.hint_pressed_alpha_material_dark = global::MemoryGame.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::MODEL.Resource.Dimension.hint_pressed_alpha_material_light = global::MemoryGame.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::MODEL.Resource.Dimension.notification_action_icon_size = global::MemoryGame.Resource.Dimension.notification_action_icon_size;
+			global::MODEL.Resource.Dimension.notification_action_text_size = global::MemoryGame.Resource.Dimension.notification_action_text_size;
+			global::MODEL.Resource.Dimension.notification_big_circle_margin = global::MemoryGame.Resource.Dimension.notification_big_circle_margin;
+			global::MODEL.Resource.Dimension.notification_content_margin_start = global::MemoryGame.Resource.Dimension.notification_content_margin_start;
+			global::MODEL.Resource.Dimension.notification_large_icon_height = global::MemoryGame.Resource.Dimension.notification_large_icon_height;
+			global::MODEL.Resource.Dimension.notification_large_icon_width = global::MemoryGame.Resource.Dimension.notification_large_icon_width;
+			global::MODEL.Resource.Dimension.notification_main_column_padding_top = global::MemoryGame.Resource.Dimension.notification_main_column_padding_top;
+			global::MODEL.Resource.Dimension.notification_media_narrow_margin = global::MemoryGame.Resource.Dimension.notification_media_narrow_margin;
+			global::MODEL.Resource.Dimension.notification_right_icon_size = global::MemoryGame.Resource.Dimension.notification_right_icon_size;
+			global::MODEL.Resource.Dimension.notification_right_side_padding_top = global::MemoryGame.Resource.Dimension.notification_right_side_padding_top;
+			global::MODEL.Resource.Dimension.notification_small_icon_background_padding = global::MemoryGame.Resource.Dimension.notification_small_icon_background_padding;
+			global::MODEL.Resource.Dimension.notification_small_icon_size_as_large = global::MemoryGame.Resource.Dimension.notification_small_icon_size_as_large;
+			global::MODEL.Resource.Dimension.notification_subtext_size = global::MemoryGame.Resource.Dimension.notification_subtext_size;
+			global::MODEL.Resource.Dimension.notification_top_pad = global::MemoryGame.Resource.Dimension.notification_top_pad;
+			global::MODEL.Resource.Dimension.notification_top_pad_large_text = global::MemoryGame.Resource.Dimension.notification_top_pad_large_text;
+			global::MODEL.Resource.Dimension.tooltip_corner_radius = global::MemoryGame.Resource.Dimension.tooltip_corner_radius;
+			global::MODEL.Resource.Dimension.tooltip_horizontal_padding = global::MemoryGame.Resource.Dimension.tooltip_horizontal_padding;
+			global::MODEL.Resource.Dimension.tooltip_margin = global::MemoryGame.Resource.Dimension.tooltip_margin;
+			global::MODEL.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::MemoryGame.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::MODEL.Resource.Dimension.tooltip_precise_anchor_threshold = global::MemoryGame.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::MODEL.Resource.Dimension.tooltip_vertical_padding = global::MemoryGame.Resource.Dimension.tooltip_vertical_padding;
+			global::MODEL.Resource.Dimension.tooltip_y_offset_non_touch = global::MemoryGame.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::MODEL.Resource.Dimension.tooltip_y_offset_touch = global::MemoryGame.Resource.Dimension.tooltip_y_offset_touch;
+			global::MODEL.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::MemoryGame.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_action_bar_item_background_material = global::MemoryGame.Resource.Drawable.abc_action_bar_item_background_material;
+			global::MODEL.Resource.Drawable.abc_btn_borderless_material = global::MemoryGame.Resource.Drawable.abc_btn_borderless_material;
+			global::MODEL.Resource.Drawable.abc_btn_check_material = global::MemoryGame.Resource.Drawable.abc_btn_check_material;
+			global::MODEL.Resource.Drawable.abc_btn_check_material_anim = global::MemoryGame.Resource.Drawable.abc_btn_check_material_anim;
+			global::MODEL.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::MemoryGame.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::MODEL.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::MemoryGame.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::MODEL.Resource.Drawable.abc_btn_colored_material = global::MemoryGame.Resource.Drawable.abc_btn_colored_material;
+			global::MODEL.Resource.Drawable.abc_btn_default_mtrl_shape = global::MemoryGame.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::MODEL.Resource.Drawable.abc_btn_radio_material = global::MemoryGame.Resource.Drawable.abc_btn_radio_material;
+			global::MODEL.Resource.Drawable.abc_btn_radio_material_anim = global::MemoryGame.Resource.Drawable.abc_btn_radio_material_anim;
+			global::MODEL.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::MemoryGame.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::MODEL.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::MemoryGame.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::MODEL.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::MemoryGame.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::MODEL.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::MemoryGame.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::MODEL.Resource.Drawable.abc_cab_background_internal_bg = global::MemoryGame.Resource.Drawable.abc_cab_background_internal_bg;
+			global::MODEL.Resource.Drawable.abc_cab_background_top_material = global::MemoryGame.Resource.Drawable.abc_cab_background_top_material;
+			global::MODEL.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::MemoryGame.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_control_background_material = global::MemoryGame.Resource.Drawable.abc_control_background_material;
+			global::MODEL.Resource.Drawable.abc_dialog_material_background = global::MemoryGame.Resource.Drawable.abc_dialog_material_background;
+			global::MODEL.Resource.Drawable.abc_edit_text_material = global::MemoryGame.Resource.Drawable.abc_edit_text_material;
+			global::MODEL.Resource.Drawable.abc_ic_ab_back_material = global::MemoryGame.Resource.Drawable.abc_ic_ab_back_material;
+			global::MODEL.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::MemoryGame.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::MODEL.Resource.Drawable.abc_ic_clear_material = global::MemoryGame.Resource.Drawable.abc_ic_clear_material;
+			global::MODEL.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::MemoryGame.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_ic_go_search_api_material = global::MemoryGame.Resource.Drawable.abc_ic_go_search_api_material;
+			global::MODEL.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::MemoryGame.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::MODEL.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::MemoryGame.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_ic_menu_overflow_material = global::MemoryGame.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::MODEL.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::MemoryGame.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::MODEL.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::MemoryGame.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::MemoryGame.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_ic_search_api_material = global::MemoryGame.Resource.Drawable.abc_ic_search_api_material;
+			global::MODEL.Resource.Drawable.abc_ic_star_black_16dp = global::MemoryGame.Resource.Drawable.abc_ic_star_black_16dp;
+			global::MODEL.Resource.Drawable.abc_ic_star_black_36dp = global::MemoryGame.Resource.Drawable.abc_ic_star_black_36dp;
+			global::MODEL.Resource.Drawable.abc_ic_star_black_48dp = global::MemoryGame.Resource.Drawable.abc_ic_star_black_48dp;
+			global::MODEL.Resource.Drawable.abc_ic_star_half_black_16dp = global::MemoryGame.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::MODEL.Resource.Drawable.abc_ic_star_half_black_36dp = global::MemoryGame.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::MODEL.Resource.Drawable.abc_ic_star_half_black_48dp = global::MemoryGame.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::MODEL.Resource.Drawable.abc_ic_voice_search_api_material = global::MemoryGame.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::MODEL.Resource.Drawable.abc_item_background_holo_dark = global::MemoryGame.Resource.Drawable.abc_item_background_holo_dark;
+			global::MODEL.Resource.Drawable.abc_item_background_holo_light = global::MemoryGame.Resource.Drawable.abc_item_background_holo_light;
+			global::MODEL.Resource.Drawable.abc_list_divider_material = global::MemoryGame.Resource.Drawable.abc_list_divider_material;
+			global::MODEL.Resource.Drawable.abc_list_divider_mtrl_alpha = global::MemoryGame.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_list_focused_holo = global::MemoryGame.Resource.Drawable.abc_list_focused_holo;
+			global::MODEL.Resource.Drawable.abc_list_longpressed_holo = global::MemoryGame.Resource.Drawable.abc_list_longpressed_holo;
+			global::MODEL.Resource.Drawable.abc_list_pressed_holo_dark = global::MemoryGame.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::MODEL.Resource.Drawable.abc_list_pressed_holo_light = global::MemoryGame.Resource.Drawable.abc_list_pressed_holo_light;
+			global::MODEL.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::MemoryGame.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::MODEL.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::MemoryGame.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::MODEL.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::MemoryGame.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::MODEL.Resource.Drawable.abc_list_selector_disabled_holo_light = global::MemoryGame.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::MODEL.Resource.Drawable.abc_list_selector_holo_dark = global::MemoryGame.Resource.Drawable.abc_list_selector_holo_dark;
+			global::MODEL.Resource.Drawable.abc_list_selector_holo_light = global::MemoryGame.Resource.Drawable.abc_list_selector_holo_light;
+			global::MODEL.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::MemoryGame.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::MODEL.Resource.Drawable.abc_popup_background_mtrl_mult = global::MemoryGame.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::MODEL.Resource.Drawable.abc_ratingbar_indicator_material = global::MemoryGame.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::MODEL.Resource.Drawable.abc_ratingbar_material = global::MemoryGame.Resource.Drawable.abc_ratingbar_material;
+			global::MODEL.Resource.Drawable.abc_ratingbar_small_material = global::MemoryGame.Resource.Drawable.abc_ratingbar_small_material;
+			global::MODEL.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::MemoryGame.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::MemoryGame.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::MODEL.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::MemoryGame.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::MODEL.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::MemoryGame.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::MemoryGame.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_seekbar_thumb_material = global::MemoryGame.Resource.Drawable.abc_seekbar_thumb_material;
+			global::MODEL.Resource.Drawable.abc_seekbar_tick_mark_material = global::MemoryGame.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::MODEL.Resource.Drawable.abc_seekbar_track_material = global::MemoryGame.Resource.Drawable.abc_seekbar_track_material;
+			global::MODEL.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::MemoryGame.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::MODEL.Resource.Drawable.abc_spinner_textfield_background_material = global::MemoryGame.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::MODEL.Resource.Drawable.abc_switch_thumb_material = global::MemoryGame.Resource.Drawable.abc_switch_thumb_material;
+			global::MODEL.Resource.Drawable.abc_switch_track_mtrl_alpha = global::MemoryGame.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_tab_indicator_material = global::MemoryGame.Resource.Drawable.abc_tab_indicator_material;
+			global::MODEL.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::MemoryGame.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::MemoryGame.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::MemoryGame.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::MemoryGame.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::MemoryGame.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::MODEL.Resource.Drawable.abc_textfield_search_material = global::MemoryGame.Resource.Drawable.abc_textfield_search_material;
+			global::MODEL.Resource.Drawable.abc_text_cursor_material = global::MemoryGame.Resource.Drawable.abc_text_cursor_material;
+			global::MODEL.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::MemoryGame.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::MODEL.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::MemoryGame.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::MODEL.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::MemoryGame.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::MODEL.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::MemoryGame.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::MODEL.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::MemoryGame.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::MODEL.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::MemoryGame.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::MODEL.Resource.Drawable.abc_vector_test = global::MemoryGame.Resource.Drawable.abc_vector_test;
+			global::MODEL.Resource.Drawable.btn_checkbox_checked_mtrl = global::MemoryGame.Resource.Drawable.btn_checkbox_checked_mtrl;
+			global::MODEL.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation = global::MemoryGame.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation;
+			global::MODEL.Resource.Drawable.btn_checkbox_unchecked_mtrl = global::MemoryGame.Resource.Drawable.btn_checkbox_unchecked_mtrl;
+			global::MODEL.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation = global::MemoryGame.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation;
+			global::MODEL.Resource.Drawable.btn_radio_off_mtrl = global::MemoryGame.Resource.Drawable.btn_radio_off_mtrl;
+			global::MODEL.Resource.Drawable.btn_radio_off_to_on_mtrl_animation = global::MemoryGame.Resource.Drawable.btn_radio_off_to_on_mtrl_animation;
+			global::MODEL.Resource.Drawable.btn_radio_on_mtrl = global::MemoryGame.Resource.Drawable.btn_radio_on_mtrl;
+			global::MODEL.Resource.Drawable.btn_radio_on_to_off_mtrl_animation = global::MemoryGame.Resource.Drawable.btn_radio_on_to_off_mtrl_animation;
+			global::MODEL.Resource.Drawable.notification_action_background = global::MemoryGame.Resource.Drawable.notification_action_background;
+			global::MODEL.Resource.Drawable.notification_bg = global::MemoryGame.Resource.Drawable.notification_bg;
+			global::MODEL.Resource.Drawable.notification_bg_low = global::MemoryGame.Resource.Drawable.notification_bg_low;
+			global::MODEL.Resource.Drawable.notification_bg_low_normal = global::MemoryGame.Resource.Drawable.notification_bg_low_normal;
+			global::MODEL.Resource.Drawable.notification_bg_low_pressed = global::MemoryGame.Resource.Drawable.notification_bg_low_pressed;
+			global::MODEL.Resource.Drawable.notification_bg_normal = global::MemoryGame.Resource.Drawable.notification_bg_normal;
+			global::MODEL.Resource.Drawable.notification_bg_normal_pressed = global::MemoryGame.Resource.Drawable.notification_bg_normal_pressed;
+			global::MODEL.Resource.Drawable.notification_icon_background = global::MemoryGame.Resource.Drawable.notification_icon_background;
+			global::MODEL.Resource.Drawable.notification_template_icon_bg = global::MemoryGame.Resource.Drawable.notification_template_icon_bg;
+			global::MODEL.Resource.Drawable.notification_template_icon_low_bg = global::MemoryGame.Resource.Drawable.notification_template_icon_low_bg;
+			global::MODEL.Resource.Drawable.notification_tile_bg = global::MemoryGame.Resource.Drawable.notification_tile_bg;
+			global::MODEL.Resource.Drawable.notify_panel_notification_icon_bg = global::MemoryGame.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::MODEL.Resource.Drawable.tooltip_frame_dark = global::MemoryGame.Resource.Drawable.tooltip_frame_dark;
+			global::MODEL.Resource.Drawable.tooltip_frame_light = global::MemoryGame.Resource.Drawable.tooltip_frame_light;
+			global::MODEL.Resource.Id.accessibility_action_clickable_span = global::MemoryGame.Resource.Id.accessibility_action_clickable_span;
+			global::MODEL.Resource.Id.accessibility_custom_action_0 = global::MemoryGame.Resource.Id.accessibility_custom_action_0;
+			global::MODEL.Resource.Id.accessibility_custom_action_1 = global::MemoryGame.Resource.Id.accessibility_custom_action_1;
+			global::MODEL.Resource.Id.accessibility_custom_action_10 = global::MemoryGame.Resource.Id.accessibility_custom_action_10;
+			global::MODEL.Resource.Id.accessibility_custom_action_11 = global::MemoryGame.Resource.Id.accessibility_custom_action_11;
+			global::MODEL.Resource.Id.accessibility_custom_action_12 = global::MemoryGame.Resource.Id.accessibility_custom_action_12;
+			global::MODEL.Resource.Id.accessibility_custom_action_13 = global::MemoryGame.Resource.Id.accessibility_custom_action_13;
+			global::MODEL.Resource.Id.accessibility_custom_action_14 = global::MemoryGame.Resource.Id.accessibility_custom_action_14;
+			global::MODEL.Resource.Id.accessibility_custom_action_15 = global::MemoryGame.Resource.Id.accessibility_custom_action_15;
+			global::MODEL.Resource.Id.accessibility_custom_action_16 = global::MemoryGame.Resource.Id.accessibility_custom_action_16;
+			global::MODEL.Resource.Id.accessibility_custom_action_17 = global::MemoryGame.Resource.Id.accessibility_custom_action_17;
+			global::MODEL.Resource.Id.accessibility_custom_action_18 = global::MemoryGame.Resource.Id.accessibility_custom_action_18;
+			global::MODEL.Resource.Id.accessibility_custom_action_19 = global::MemoryGame.Resource.Id.accessibility_custom_action_19;
+			global::MODEL.Resource.Id.accessibility_custom_action_2 = global::MemoryGame.Resource.Id.accessibility_custom_action_2;
+			global::MODEL.Resource.Id.accessibility_custom_action_20 = global::MemoryGame.Resource.Id.accessibility_custom_action_20;
+			global::MODEL.Resource.Id.accessibility_custom_action_21 = global::MemoryGame.Resource.Id.accessibility_custom_action_21;
+			global::MODEL.Resource.Id.accessibility_custom_action_22 = global::MemoryGame.Resource.Id.accessibility_custom_action_22;
+			global::MODEL.Resource.Id.accessibility_custom_action_23 = global::MemoryGame.Resource.Id.accessibility_custom_action_23;
+			global::MODEL.Resource.Id.accessibility_custom_action_24 = global::MemoryGame.Resource.Id.accessibility_custom_action_24;
+			global::MODEL.Resource.Id.accessibility_custom_action_25 = global::MemoryGame.Resource.Id.accessibility_custom_action_25;
+			global::MODEL.Resource.Id.accessibility_custom_action_26 = global::MemoryGame.Resource.Id.accessibility_custom_action_26;
+			global::MODEL.Resource.Id.accessibility_custom_action_27 = global::MemoryGame.Resource.Id.accessibility_custom_action_27;
+			global::MODEL.Resource.Id.accessibility_custom_action_28 = global::MemoryGame.Resource.Id.accessibility_custom_action_28;
+			global::MODEL.Resource.Id.accessibility_custom_action_29 = global::MemoryGame.Resource.Id.accessibility_custom_action_29;
+			global::MODEL.Resource.Id.accessibility_custom_action_3 = global::MemoryGame.Resource.Id.accessibility_custom_action_3;
+			global::MODEL.Resource.Id.accessibility_custom_action_30 = global::MemoryGame.Resource.Id.accessibility_custom_action_30;
+			global::MODEL.Resource.Id.accessibility_custom_action_31 = global::MemoryGame.Resource.Id.accessibility_custom_action_31;
+			global::MODEL.Resource.Id.accessibility_custom_action_4 = global::MemoryGame.Resource.Id.accessibility_custom_action_4;
+			global::MODEL.Resource.Id.accessibility_custom_action_5 = global::MemoryGame.Resource.Id.accessibility_custom_action_5;
+			global::MODEL.Resource.Id.accessibility_custom_action_6 = global::MemoryGame.Resource.Id.accessibility_custom_action_6;
+			global::MODEL.Resource.Id.accessibility_custom_action_7 = global::MemoryGame.Resource.Id.accessibility_custom_action_7;
+			global::MODEL.Resource.Id.accessibility_custom_action_8 = global::MemoryGame.Resource.Id.accessibility_custom_action_8;
+			global::MODEL.Resource.Id.accessibility_custom_action_9 = global::MemoryGame.Resource.Id.accessibility_custom_action_9;
+			global::MODEL.Resource.Id.actions = global::MemoryGame.Resource.Id.actions;
+			global::MODEL.Resource.Id.action_bar = global::MemoryGame.Resource.Id.action_bar;
+			global::MODEL.Resource.Id.action_bar_activity_content = global::MemoryGame.Resource.Id.action_bar_activity_content;
+			global::MODEL.Resource.Id.action_bar_container = global::MemoryGame.Resource.Id.action_bar_container;
+			global::MODEL.Resource.Id.action_bar_root = global::MemoryGame.Resource.Id.action_bar_root;
+			global::MODEL.Resource.Id.action_bar_spinner = global::MemoryGame.Resource.Id.action_bar_spinner;
+			global::MODEL.Resource.Id.action_bar_subtitle = global::MemoryGame.Resource.Id.action_bar_subtitle;
+			global::MODEL.Resource.Id.action_bar_title = global::MemoryGame.Resource.Id.action_bar_title;
+			global::MODEL.Resource.Id.action_container = global::MemoryGame.Resource.Id.action_container;
+			global::MODEL.Resource.Id.action_context_bar = global::MemoryGame.Resource.Id.action_context_bar;
+			global::MODEL.Resource.Id.action_divider = global::MemoryGame.Resource.Id.action_divider;
+			global::MODEL.Resource.Id.action_image = global::MemoryGame.Resource.Id.action_image;
+			global::MODEL.Resource.Id.action_menu_divider = global::MemoryGame.Resource.Id.action_menu_divider;
+			global::MODEL.Resource.Id.action_menu_presenter = global::MemoryGame.Resource.Id.action_menu_presenter;
+			global::MODEL.Resource.Id.action_mode_bar = global::MemoryGame.Resource.Id.action_mode_bar;
+			global::MODEL.Resource.Id.action_mode_bar_stub = global::MemoryGame.Resource.Id.action_mode_bar_stub;
+			global::MODEL.Resource.Id.action_mode_close_button = global::MemoryGame.Resource.Id.action_mode_close_button;
+			global::MODEL.Resource.Id.action_text = global::MemoryGame.Resource.Id.action_text;
+			global::MODEL.Resource.Id.activity_chooser_view_content = global::MemoryGame.Resource.Id.activity_chooser_view_content;
+			global::MODEL.Resource.Id.add = global::MemoryGame.Resource.Id.add;
+			global::MODEL.Resource.Id.alertTitle = global::MemoryGame.Resource.Id.alertTitle;
+			global::MODEL.Resource.Id.ALT = global::MemoryGame.Resource.Id.ALT;
+			global::MODEL.Resource.Id.always = global::MemoryGame.Resource.Id.always;
+			global::MODEL.Resource.Id.async = global::MemoryGame.Resource.Id.async;
+			global::MODEL.Resource.Id.beginning = global::MemoryGame.Resource.Id.beginning;
+			global::MODEL.Resource.Id.blocking = global::MemoryGame.Resource.Id.blocking;
+			global::MODEL.Resource.Id.bottom = global::MemoryGame.Resource.Id.bottom;
+			global::MODEL.Resource.Id.buttonPanel = global::MemoryGame.Resource.Id.buttonPanel;
+			global::MODEL.Resource.Id.center_vertical = global::MemoryGame.Resource.Id.center_vertical;
+			global::MODEL.Resource.Id.checkbox = global::MemoryGame.Resource.Id.checkbox;
+			global::MODEL.Resource.Id.@checked = global::MemoryGame.Resource.Id.@checked;
+			global::MODEL.Resource.Id.chronometer = global::MemoryGame.Resource.Id.chronometer;
+			global::MODEL.Resource.Id.collapseActionView = global::MemoryGame.Resource.Id.collapseActionView;
+			global::MODEL.Resource.Id.content = global::MemoryGame.Resource.Id.content;
+			global::MODEL.Resource.Id.contentPanel = global::MemoryGame.Resource.Id.contentPanel;
+			global::MODEL.Resource.Id.CTRL = global::MemoryGame.Resource.Id.CTRL;
+			global::MODEL.Resource.Id.custom = global::MemoryGame.Resource.Id.custom;
+			global::MODEL.Resource.Id.customPanel = global::MemoryGame.Resource.Id.customPanel;
+			global::MODEL.Resource.Id.decor_content_parent = global::MemoryGame.Resource.Id.decor_content_parent;
+			global::MODEL.Resource.Id.default_activity_button = global::MemoryGame.Resource.Id.default_activity_button;
+			global::MODEL.Resource.Id.dialog_button = global::MemoryGame.Resource.Id.dialog_button;
+			global::MODEL.Resource.Id.disableHome = global::MemoryGame.Resource.Id.disableHome;
+			global::MODEL.Resource.Id.edit_query = global::MemoryGame.Resource.Id.edit_query;
+			global::MODEL.Resource.Id.end = global::MemoryGame.Resource.Id.end;
+			global::MODEL.Resource.Id.expanded_menu = global::MemoryGame.Resource.Id.expanded_menu;
+			global::MODEL.Resource.Id.expand_activities_button = global::MemoryGame.Resource.Id.expand_activities_button;
+			global::MODEL.Resource.Id.forever = global::MemoryGame.Resource.Id.forever;
+			global::MODEL.Resource.Id.fragment_container_view_tag = global::MemoryGame.Resource.Id.fragment_container_view_tag;
+			global::MODEL.Resource.Id.FUNCTION = global::MemoryGame.Resource.Id.FUNCTION;
+			global::MODEL.Resource.Id.group_divider = global::MemoryGame.Resource.Id.group_divider;
+			global::MODEL.Resource.Id.home = global::MemoryGame.Resource.Id.home;
+			global::MODEL.Resource.Id.homeAsUp = global::MemoryGame.Resource.Id.homeAsUp;
+			global::MODEL.Resource.Id.icon = global::MemoryGame.Resource.Id.icon;
+			global::MODEL.Resource.Id.icon_group = global::MemoryGame.Resource.Id.icon_group;
+			global::MODEL.Resource.Id.ifRoom = global::MemoryGame.Resource.Id.ifRoom;
+			global::MODEL.Resource.Id.image = global::MemoryGame.Resource.Id.image;
+			global::MODEL.Resource.Id.info = global::MemoryGame.Resource.Id.info;
+			global::MODEL.Resource.Id.italic = global::MemoryGame.Resource.Id.italic;
+			global::MODEL.Resource.Id.line1 = global::MemoryGame.Resource.Id.line1;
+			global::MODEL.Resource.Id.line3 = global::MemoryGame.Resource.Id.line3;
+			global::MODEL.Resource.Id.listMode = global::MemoryGame.Resource.Id.listMode;
+			global::MODEL.Resource.Id.list_item = global::MemoryGame.Resource.Id.list_item;
+			global::MODEL.Resource.Id.message = global::MemoryGame.Resource.Id.message;
+			global::MODEL.Resource.Id.META = global::MemoryGame.Resource.Id.META;
+			global::MODEL.Resource.Id.middle = global::MemoryGame.Resource.Id.middle;
+			global::MODEL.Resource.Id.multiply = global::MemoryGame.Resource.Id.multiply;
+			global::MODEL.Resource.Id.never = global::MemoryGame.Resource.Id.never;
+			global::MODEL.Resource.Id.none = global::MemoryGame.Resource.Id.none;
+			global::MODEL.Resource.Id.normal = global::MemoryGame.Resource.Id.normal;
+			global::MODEL.Resource.Id.notification_background = global::MemoryGame.Resource.Id.notification_background;
+			global::MODEL.Resource.Id.notification_main_column = global::MemoryGame.Resource.Id.notification_main_column;
+			global::MODEL.Resource.Id.notification_main_column_container = global::MemoryGame.Resource.Id.notification_main_column_container;
+			global::MODEL.Resource.Id.off = global::MemoryGame.Resource.Id.off;
+			global::MODEL.Resource.Id.on = global::MemoryGame.Resource.Id.on;
+			global::MODEL.Resource.Id.parentPanel = global::MemoryGame.Resource.Id.parentPanel;
+			global::MODEL.Resource.Id.progress_circular = global::MemoryGame.Resource.Id.progress_circular;
+			global::MODEL.Resource.Id.progress_horizontal = global::MemoryGame.Resource.Id.progress_horizontal;
+			global::MODEL.Resource.Id.radio = global::MemoryGame.Resource.Id.radio;
+			global::MODEL.Resource.Id.right_icon = global::MemoryGame.Resource.Id.right_icon;
+			global::MODEL.Resource.Id.right_side = global::MemoryGame.Resource.Id.right_side;
+			global::MODEL.Resource.Id.screen = global::MemoryGame.Resource.Id.screen;
+			global::MODEL.Resource.Id.scrollIndicatorDown = global::MemoryGame.Resource.Id.scrollIndicatorDown;
+			global::MODEL.Resource.Id.scrollIndicatorUp = global::MemoryGame.Resource.Id.scrollIndicatorUp;
+			global::MODEL.Resource.Id.scrollView = global::MemoryGame.Resource.Id.scrollView;
+			global::MODEL.Resource.Id.search_badge = global::MemoryGame.Resource.Id.search_badge;
+			global::MODEL.Resource.Id.search_bar = global::MemoryGame.Resource.Id.search_bar;
+			global::MODEL.Resource.Id.search_button = global::MemoryGame.Resource.Id.search_button;
+			global::MODEL.Resource.Id.search_close_btn = global::MemoryGame.Resource.Id.search_close_btn;
+			global::MODEL.Resource.Id.search_edit_frame = global::MemoryGame.Resource.Id.search_edit_frame;
+			global::MODEL.Resource.Id.search_go_btn = global::MemoryGame.Resource.Id.search_go_btn;
+			global::MODEL.Resource.Id.search_mag_icon = global::MemoryGame.Resource.Id.search_mag_icon;
+			global::MODEL.Resource.Id.search_plate = global::MemoryGame.Resource.Id.search_plate;
+			global::MODEL.Resource.Id.search_src_text = global::MemoryGame.Resource.Id.search_src_text;
+			global::MODEL.Resource.Id.search_voice_btn = global::MemoryGame.Resource.Id.search_voice_btn;
+			global::MODEL.Resource.Id.select_dialog_listview = global::MemoryGame.Resource.Id.select_dialog_listview;
+			global::MODEL.Resource.Id.SHIFT = global::MemoryGame.Resource.Id.SHIFT;
+			global::MODEL.Resource.Id.shortcut = global::MemoryGame.Resource.Id.shortcut;
+			global::MODEL.Resource.Id.showCustom = global::MemoryGame.Resource.Id.showCustom;
+			global::MODEL.Resource.Id.showHome = global::MemoryGame.Resource.Id.showHome;
+			global::MODEL.Resource.Id.showTitle = global::MemoryGame.Resource.Id.showTitle;
+			global::MODEL.Resource.Id.spacer = global::MemoryGame.Resource.Id.spacer;
+			global::MODEL.Resource.Id.split_action_bar = global::MemoryGame.Resource.Id.split_action_bar;
+			global::MODEL.Resource.Id.src_atop = global::MemoryGame.Resource.Id.src_atop;
+			global::MODEL.Resource.Id.src_in = global::MemoryGame.Resource.Id.src_in;
+			global::MODEL.Resource.Id.src_over = global::MemoryGame.Resource.Id.src_over;
+			global::MODEL.Resource.Id.submenuarrow = global::MemoryGame.Resource.Id.submenuarrow;
+			global::MODEL.Resource.Id.submit_area = global::MemoryGame.Resource.Id.submit_area;
+			global::MODEL.Resource.Id.SYM = global::MemoryGame.Resource.Id.SYM;
+			global::MODEL.Resource.Id.tabMode = global::MemoryGame.Resource.Id.tabMode;
+			global::MODEL.Resource.Id.tag_accessibility_actions = global::MemoryGame.Resource.Id.tag_accessibility_actions;
+			global::MODEL.Resource.Id.tag_accessibility_clickable_spans = global::MemoryGame.Resource.Id.tag_accessibility_clickable_spans;
+			global::MODEL.Resource.Id.tag_accessibility_heading = global::MemoryGame.Resource.Id.tag_accessibility_heading;
+			global::MODEL.Resource.Id.tag_accessibility_pane_title = global::MemoryGame.Resource.Id.tag_accessibility_pane_title;
+			global::MODEL.Resource.Id.tag_screen_reader_focusable = global::MemoryGame.Resource.Id.tag_screen_reader_focusable;
+			global::MODEL.Resource.Id.tag_transition_group = global::MemoryGame.Resource.Id.tag_transition_group;
+			global::MODEL.Resource.Id.tag_unhandled_key_event_manager = global::MemoryGame.Resource.Id.tag_unhandled_key_event_manager;
+			global::MODEL.Resource.Id.tag_unhandled_key_listeners = global::MemoryGame.Resource.Id.tag_unhandled_key_listeners;
+			global::MODEL.Resource.Id.text = global::MemoryGame.Resource.Id.text;
+			global::MODEL.Resource.Id.text2 = global::MemoryGame.Resource.Id.text2;
+			global::MODEL.Resource.Id.textSpacerNoButtons = global::MemoryGame.Resource.Id.textSpacerNoButtons;
+			global::MODEL.Resource.Id.textSpacerNoTitle = global::MemoryGame.Resource.Id.textSpacerNoTitle;
+			global::MODEL.Resource.Id.time = global::MemoryGame.Resource.Id.time;
+			global::MODEL.Resource.Id.title = global::MemoryGame.Resource.Id.title;
+			global::MODEL.Resource.Id.titleDividerNoCustom = global::MemoryGame.Resource.Id.titleDividerNoCustom;
+			global::MODEL.Resource.Id.title_template = global::MemoryGame.Resource.Id.title_template;
+			global::MODEL.Resource.Id.top = global::MemoryGame.Resource.Id.top;
+			global::MODEL.Resource.Id.topPanel = global::MemoryGame.Resource.Id.topPanel;
+			global::MODEL.Resource.Id.@unchecked = global::MemoryGame.Resource.Id.@unchecked;
+			global::MODEL.Resource.Id.uniform = global::MemoryGame.Resource.Id.uniform;
+			global::MODEL.Resource.Id.up = global::MemoryGame.Resource.Id.up;
+			global::MODEL.Resource.Id.useLogo = global::MemoryGame.Resource.Id.useLogo;
+			global::MODEL.Resource.Id.view_tree_saved_state_registry_owner = global::MemoryGame.Resource.Id.view_tree_saved_state_registry_owner;
+			global::MODEL.Resource.Id.visible_removing_fragment_view_tag = global::MemoryGame.Resource.Id.visible_removing_fragment_view_tag;
+			global::MODEL.Resource.Id.withText = global::MemoryGame.Resource.Id.withText;
+			global::MODEL.Resource.Id.wrap_content = global::MemoryGame.Resource.Id.wrap_content;
+			global::MODEL.Resource.Integer.abc_config_activityDefaultDur = global::MemoryGame.Resource.Integer.abc_config_activityDefaultDur;
+			global::MODEL.Resource.Integer.abc_config_activityShortDur = global::MemoryGame.Resource.Integer.abc_config_activityShortDur;
+			global::MODEL.Resource.Integer.cancel_button_image_alpha = global::MemoryGame.Resource.Integer.cancel_button_image_alpha;
+			global::MODEL.Resource.Integer.config_tooltipAnimTime = global::MemoryGame.Resource.Integer.config_tooltipAnimTime;
+			global::MODEL.Resource.Integer.status_bar_notification_info_maxnum = global::MemoryGame.Resource.Integer.status_bar_notification_info_maxnum;
+			global::MODEL.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0 = global::MemoryGame.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0;
+			global::MODEL.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1 = global::MemoryGame.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1;
+			global::MODEL.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0 = global::MemoryGame.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0;
+			global::MODEL.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1 = global::MemoryGame.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1;
+			global::MODEL.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0 = global::MemoryGame.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0;
+			global::MODEL.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0 = global::MemoryGame.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0;
+			global::MODEL.Resource.Interpolator.fast_out_slow_in = global::MemoryGame.Resource.Interpolator.fast_out_slow_in;
+			global::MODEL.Resource.Layout.abc_action_bar_title_item = global::MemoryGame.Resource.Layout.abc_action_bar_title_item;
+			global::MODEL.Resource.Layout.abc_action_bar_up_container = global::MemoryGame.Resource.Layout.abc_action_bar_up_container;
+			global::MODEL.Resource.Layout.abc_action_menu_item_layout = global::MemoryGame.Resource.Layout.abc_action_menu_item_layout;
+			global::MODEL.Resource.Layout.abc_action_menu_layout = global::MemoryGame.Resource.Layout.abc_action_menu_layout;
+			global::MODEL.Resource.Layout.abc_action_mode_bar = global::MemoryGame.Resource.Layout.abc_action_mode_bar;
+			global::MODEL.Resource.Layout.abc_action_mode_close_item_material = global::MemoryGame.Resource.Layout.abc_action_mode_close_item_material;
+			global::MODEL.Resource.Layout.abc_activity_chooser_view = global::MemoryGame.Resource.Layout.abc_activity_chooser_view;
+			global::MODEL.Resource.Layout.abc_activity_chooser_view_list_item = global::MemoryGame.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::MODEL.Resource.Layout.abc_alert_dialog_button_bar_material = global::MemoryGame.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::MODEL.Resource.Layout.abc_alert_dialog_material = global::MemoryGame.Resource.Layout.abc_alert_dialog_material;
+			global::MODEL.Resource.Layout.abc_alert_dialog_title_material = global::MemoryGame.Resource.Layout.abc_alert_dialog_title_material;
+			global::MODEL.Resource.Layout.abc_cascading_menu_item_layout = global::MemoryGame.Resource.Layout.abc_cascading_menu_item_layout;
+			global::MODEL.Resource.Layout.abc_dialog_title_material = global::MemoryGame.Resource.Layout.abc_dialog_title_material;
+			global::MODEL.Resource.Layout.abc_expanded_menu_layout = global::MemoryGame.Resource.Layout.abc_expanded_menu_layout;
+			global::MODEL.Resource.Layout.abc_list_menu_item_checkbox = global::MemoryGame.Resource.Layout.abc_list_menu_item_checkbox;
+			global::MODEL.Resource.Layout.abc_list_menu_item_icon = global::MemoryGame.Resource.Layout.abc_list_menu_item_icon;
+			global::MODEL.Resource.Layout.abc_list_menu_item_layout = global::MemoryGame.Resource.Layout.abc_list_menu_item_layout;
+			global::MODEL.Resource.Layout.abc_list_menu_item_radio = global::MemoryGame.Resource.Layout.abc_list_menu_item_radio;
+			global::MODEL.Resource.Layout.abc_popup_menu_header_item_layout = global::MemoryGame.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::MODEL.Resource.Layout.abc_popup_menu_item_layout = global::MemoryGame.Resource.Layout.abc_popup_menu_item_layout;
+			global::MODEL.Resource.Layout.abc_screen_content_include = global::MemoryGame.Resource.Layout.abc_screen_content_include;
+			global::MODEL.Resource.Layout.abc_screen_simple = global::MemoryGame.Resource.Layout.abc_screen_simple;
+			global::MODEL.Resource.Layout.abc_screen_simple_overlay_action_mode = global::MemoryGame.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::MODEL.Resource.Layout.abc_screen_toolbar = global::MemoryGame.Resource.Layout.abc_screen_toolbar;
+			global::MODEL.Resource.Layout.abc_search_dropdown_item_icons_2line = global::MemoryGame.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::MODEL.Resource.Layout.abc_search_view = global::MemoryGame.Resource.Layout.abc_search_view;
+			global::MODEL.Resource.Layout.abc_select_dialog_material = global::MemoryGame.Resource.Layout.abc_select_dialog_material;
+			global::MODEL.Resource.Layout.abc_tooltip = global::MemoryGame.Resource.Layout.abc_tooltip;
+			global::MODEL.Resource.Layout.custom_dialog = global::MemoryGame.Resource.Layout.custom_dialog;
+			global::MODEL.Resource.Layout.notification_action = global::MemoryGame.Resource.Layout.notification_action;
+			global::MODEL.Resource.Layout.notification_action_tombstone = global::MemoryGame.Resource.Layout.notification_action_tombstone;
+			global::MODEL.Resource.Layout.notification_template_custom_big = global::MemoryGame.Resource.Layout.notification_template_custom_big;
+			global::MODEL.Resource.Layout.notification_template_icon_group = global::MemoryGame.Resource.Layout.notification_template_icon_group;
+			global::MODEL.Resource.Layout.notification_template_part_chronometer = global::MemoryGame.Resource.Layout.notification_template_part_chronometer;
+			global::MODEL.Resource.Layout.notification_template_part_time = global::MemoryGame.Resource.Layout.notification_template_part_time;
+			global::MODEL.Resource.Layout.select_dialog_item_material = global::MemoryGame.Resource.Layout.select_dialog_item_material;
+			global::MODEL.Resource.Layout.select_dialog_multichoice_material = global::MemoryGame.Resource.Layout.select_dialog_multichoice_material;
+			global::MODEL.Resource.Layout.select_dialog_singlechoice_material = global::MemoryGame.Resource.Layout.select_dialog_singlechoice_material;
+			global::MODEL.Resource.Layout.support_simple_spinner_dropdown_item = global::MemoryGame.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::MODEL.Resource.String.abc_action_bar_home_description = global::MemoryGame.Resource.String.abc_action_bar_home_description;
+			global::MODEL.Resource.String.abc_action_bar_up_description = global::MemoryGame.Resource.String.abc_action_bar_up_description;
+			global::MODEL.Resource.String.abc_action_menu_overflow_description = global::MemoryGame.Resource.String.abc_action_menu_overflow_description;
+			global::MODEL.Resource.String.abc_action_mode_done = global::MemoryGame.Resource.String.abc_action_mode_done;
+			global::MODEL.Resource.String.abc_activitychooserview_choose_application = global::MemoryGame.Resource.String.abc_activitychooserview_choose_application;
+			global::MODEL.Resource.String.abc_activity_chooser_view_see_all = global::MemoryGame.Resource.String.abc_activity_chooser_view_see_all;
+			global::MODEL.Resource.String.abc_capital_off = global::MemoryGame.Resource.String.abc_capital_off;
+			global::MODEL.Resource.String.abc_capital_on = global::MemoryGame.Resource.String.abc_capital_on;
+			global::MODEL.Resource.String.abc_menu_alt_shortcut_label = global::MemoryGame.Resource.String.abc_menu_alt_shortcut_label;
+			global::MODEL.Resource.String.abc_menu_ctrl_shortcut_label = global::MemoryGame.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::MODEL.Resource.String.abc_menu_delete_shortcut_label = global::MemoryGame.Resource.String.abc_menu_delete_shortcut_label;
+			global::MODEL.Resource.String.abc_menu_enter_shortcut_label = global::MemoryGame.Resource.String.abc_menu_enter_shortcut_label;
+			global::MODEL.Resource.String.abc_menu_function_shortcut_label = global::MemoryGame.Resource.String.abc_menu_function_shortcut_label;
+			global::MODEL.Resource.String.abc_menu_meta_shortcut_label = global::MemoryGame.Resource.String.abc_menu_meta_shortcut_label;
+			global::MODEL.Resource.String.abc_menu_shift_shortcut_label = global::MemoryGame.Resource.String.abc_menu_shift_shortcut_label;
+			global::MODEL.Resource.String.abc_menu_space_shortcut_label = global::MemoryGame.Resource.String.abc_menu_space_shortcut_label;
+			global::MODEL.Resource.String.abc_menu_sym_shortcut_label = global::MemoryGame.Resource.String.abc_menu_sym_shortcut_label;
+			global::MODEL.Resource.String.abc_prepend_shortcut_label = global::MemoryGame.Resource.String.abc_prepend_shortcut_label;
+			global::MODEL.Resource.String.abc_searchview_description_clear = global::MemoryGame.Resource.String.abc_searchview_description_clear;
+			global::MODEL.Resource.String.abc_searchview_description_query = global::MemoryGame.Resource.String.abc_searchview_description_query;
+			global::MODEL.Resource.String.abc_searchview_description_search = global::MemoryGame.Resource.String.abc_searchview_description_search;
+			global::MODEL.Resource.String.abc_searchview_description_submit = global::MemoryGame.Resource.String.abc_searchview_description_submit;
+			global::MODEL.Resource.String.abc_searchview_description_voice = global::MemoryGame.Resource.String.abc_searchview_description_voice;
+			global::MODEL.Resource.String.abc_search_hint = global::MemoryGame.Resource.String.abc_search_hint;
+			global::MODEL.Resource.String.abc_shareactionprovider_share_with = global::MemoryGame.Resource.String.abc_shareactionprovider_share_with;
+			global::MODEL.Resource.String.abc_shareactionprovider_share_with_application = global::MemoryGame.Resource.String.abc_shareactionprovider_share_with_application;
+			global::MODEL.Resource.String.abc_toolbar_collapse_description = global::MemoryGame.Resource.String.abc_toolbar_collapse_description;
+			global::MODEL.Resource.String.app_name = global::MemoryGame.Resource.String.app_name;
+			global::MODEL.Resource.String.hello = global::MemoryGame.Resource.String.hello;
+			global::MODEL.Resource.String.search_menu_title = global::MemoryGame.Resource.String.search_menu_title;
+			global::MODEL.Resource.String.status_bar_notification_info_overflow = global::MemoryGame.Resource.String.status_bar_notification_info_overflow;
+			global::MODEL.Resource.Style.AlertDialog_AppCompat = global::MemoryGame.Resource.Style.AlertDialog_AppCompat;
+			global::MODEL.Resource.Style.AlertDialog_AppCompat_Light = global::MemoryGame.Resource.Style.AlertDialog_AppCompat_Light;
+			global::MODEL.Resource.Style.Animation_AppCompat_Dialog = global::MemoryGame.Resource.Style.Animation_AppCompat_Dialog;
+			global::MODEL.Resource.Style.Animation_AppCompat_DropDownUp = global::MemoryGame.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::MODEL.Resource.Style.Animation_AppCompat_Tooltip = global::MemoryGame.Resource.Style.Animation_AppCompat_Tooltip;
+			global::MODEL.Resource.Style.Base_AlertDialog_AppCompat = global::MemoryGame.Resource.Style.Base_AlertDialog_AppCompat;
+			global::MODEL.Resource.Style.Base_AlertDialog_AppCompat_Light = global::MemoryGame.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::MODEL.Resource.Style.Base_Animation_AppCompat_Dialog = global::MemoryGame.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::MODEL.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::MemoryGame.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::MODEL.Resource.Style.Base_Animation_AppCompat_Tooltip = global::MemoryGame.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::MODEL.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::MemoryGame.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::MODEL.Resource.Style.Base_DialogWindowTitle_AppCompat = global::MemoryGame.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Button = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Large = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Small = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Title = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::MODEL.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::MemoryGame.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::MODEL.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::MemoryGame.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::MODEL.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::MemoryGame.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::MODEL.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::MemoryGame.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::MODEL.Resource.Style.Base_ThemeOverlay_AppCompat = global::MemoryGame.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::MODEL.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::MemoryGame.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::MODEL.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::MemoryGame.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::MODEL.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::MemoryGame.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::MODEL.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::MemoryGame.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::MODEL.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::MemoryGame.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::MODEL.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::MemoryGame.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat = global::MemoryGame.Resource.Style.Base_Theme_AppCompat;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::MemoryGame.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Dialog = global::MemoryGame.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::MemoryGame.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::MemoryGame.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::MemoryGame.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::MemoryGame.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Light = global::MemoryGame.Resource.Style.Base_Theme_AppCompat_Light;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::MemoryGame.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::MemoryGame.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::MemoryGame.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::MemoryGame.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::MemoryGame.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::MODEL.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::MemoryGame.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::MODEL.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::MemoryGame.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::MODEL.Resource.Style.Base_V21_Theme_AppCompat = global::MemoryGame.Resource.Style.Base_V21_Theme_AppCompat;
+			global::MODEL.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::MemoryGame.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::MODEL.Resource.Style.Base_V21_Theme_AppCompat_Light = global::MemoryGame.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::MODEL.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::MemoryGame.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::MODEL.Resource.Style.Base_V22_Theme_AppCompat = global::MemoryGame.Resource.Style.Base_V22_Theme_AppCompat;
+			global::MODEL.Resource.Style.Base_V22_Theme_AppCompat_Light = global::MemoryGame.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::MODEL.Resource.Style.Base_V23_Theme_AppCompat = global::MemoryGame.Resource.Style.Base_V23_Theme_AppCompat;
+			global::MODEL.Resource.Style.Base_V23_Theme_AppCompat_Light = global::MemoryGame.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::MODEL.Resource.Style.Base_V26_Theme_AppCompat = global::MemoryGame.Resource.Style.Base_V26_Theme_AppCompat;
+			global::MODEL.Resource.Style.Base_V26_Theme_AppCompat_Light = global::MemoryGame.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::MODEL.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::MemoryGame.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::MODEL.Resource.Style.Base_V28_Theme_AppCompat = global::MemoryGame.Resource.Style.Base_V28_Theme_AppCompat;
+			global::MODEL.Resource.Style.Base_V28_Theme_AppCompat_Light = global::MemoryGame.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::MODEL.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::MemoryGame.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::MODEL.Resource.Style.Base_V7_Theme_AppCompat = global::MemoryGame.Resource.Style.Base_V7_Theme_AppCompat;
+			global::MODEL.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::MemoryGame.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::MODEL.Resource.Style.Base_V7_Theme_AppCompat_Light = global::MemoryGame.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::MODEL.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::MemoryGame.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::MODEL.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::MemoryGame.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::MODEL.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::MemoryGame.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::MODEL.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::MemoryGame.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ActionBar = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ActionButton = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ActionMode = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Button = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_Button;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Button_Small = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_EditText = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ImageButton = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ListView = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_RatingBar = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_SearchView = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_SeekBar = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Spinner = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_TextView = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_TextView;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Toolbar = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::MODEL.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::MemoryGame.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::MODEL.Resource.Style.Platform_AppCompat = global::MemoryGame.Resource.Style.Platform_AppCompat;
+			global::MODEL.Resource.Style.Platform_AppCompat_Light = global::MemoryGame.Resource.Style.Platform_AppCompat_Light;
+			global::MODEL.Resource.Style.Platform_ThemeOverlay_AppCompat = global::MemoryGame.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::MODEL.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::MemoryGame.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::MODEL.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::MemoryGame.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::MODEL.Resource.Style.Platform_V21_AppCompat = global::MemoryGame.Resource.Style.Platform_V21_AppCompat;
+			global::MODEL.Resource.Style.Platform_V21_AppCompat_Light = global::MemoryGame.Resource.Style.Platform_V21_AppCompat_Light;
+			global::MODEL.Resource.Style.Platform_V25_AppCompat = global::MemoryGame.Resource.Style.Platform_V25_AppCompat;
+			global::MODEL.Resource.Style.Platform_V25_AppCompat_Light = global::MemoryGame.Resource.Style.Platform_V25_AppCompat_Light;
+			global::MODEL.Resource.Style.Platform_Widget_AppCompat_Spinner = global::MemoryGame.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::MODEL.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::MemoryGame.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::MemoryGame.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::MemoryGame.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::MemoryGame.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::MemoryGame.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::MemoryGame.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::MemoryGame.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::MemoryGame.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::MemoryGame.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::MemoryGame.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::MemoryGame.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::MemoryGame.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::MemoryGame.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::MemoryGame.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::MODEL.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::MemoryGame.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::MODEL.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::MemoryGame.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::MODEL.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::MemoryGame.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat = global::MemoryGame.Resource.Style.TextAppearance_AppCompat;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Body1 = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Body2 = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Button = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Button;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Caption = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Display1 = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Display2 = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Display3 = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Display4 = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Headline = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Inverse = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Large = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Large;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Medium = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Menu = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Small = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Small;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Subhead = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Title = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Title;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Tooltip = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::MODEL.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::MemoryGame.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::MODEL.Resource.Style.TextAppearance_Compat_Notification = global::MemoryGame.Resource.Style.TextAppearance_Compat_Notification;
+			global::MODEL.Resource.Style.TextAppearance_Compat_Notification_Info = global::MemoryGame.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::MODEL.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::MemoryGame.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::MODEL.Resource.Style.TextAppearance_Compat_Notification_Time = global::MemoryGame.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::MODEL.Resource.Style.TextAppearance_Compat_Notification_Title = global::MemoryGame.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::MODEL.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::MemoryGame.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::MODEL.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::MemoryGame.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::MODEL.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::MemoryGame.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::MODEL.Resource.Style.ThemeOverlay_AppCompat = global::MemoryGame.Resource.Style.ThemeOverlay_AppCompat;
+			global::MODEL.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::MemoryGame.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::MODEL.Resource.Style.ThemeOverlay_AppCompat_Dark = global::MemoryGame.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::MODEL.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::MemoryGame.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::MODEL.Resource.Style.ThemeOverlay_AppCompat_DayNight = global::MemoryGame.Resource.Style.ThemeOverlay_AppCompat_DayNight;
+			global::MODEL.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar = global::MemoryGame.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar;
+			global::MODEL.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::MemoryGame.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::MODEL.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::MemoryGame.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::MODEL.Resource.Style.ThemeOverlay_AppCompat_Light = global::MemoryGame.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::MODEL.Resource.Style.Theme_AppCompat = global::MemoryGame.Resource.Style.Theme_AppCompat;
+			global::MODEL.Resource.Style.Theme_AppCompat_CompactMenu = global::MemoryGame.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::MODEL.Resource.Style.Theme_AppCompat_DayNight = global::MemoryGame.Resource.Style.Theme_AppCompat_DayNight;
+			global::MODEL.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::MemoryGame.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::MODEL.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::MemoryGame.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::MODEL.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::MemoryGame.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::MODEL.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::MemoryGame.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::MODEL.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::MemoryGame.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::MODEL.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::MemoryGame.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::MODEL.Resource.Style.Theme_AppCompat_Dialog = global::MemoryGame.Resource.Style.Theme_AppCompat_Dialog;
+			global::MODEL.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::MemoryGame.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::MODEL.Resource.Style.Theme_AppCompat_Dialog_Alert = global::MemoryGame.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::MODEL.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::MemoryGame.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::MODEL.Resource.Style.Theme_AppCompat_Empty = global::MemoryGame.Resource.Style.Theme_AppCompat_Empty;
+			global::MODEL.Resource.Style.Theme_AppCompat_Light = global::MemoryGame.Resource.Style.Theme_AppCompat_Light;
+			global::MODEL.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::MemoryGame.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::MODEL.Resource.Style.Theme_AppCompat_Light_Dialog = global::MemoryGame.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::MODEL.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::MemoryGame.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::MODEL.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::MemoryGame.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::MODEL.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::MemoryGame.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::MODEL.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::MemoryGame.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::MODEL.Resource.Style.Theme_AppCompat_NoActionBar = global::MemoryGame.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_ActionBar = global::MemoryGame.Resource.Style.Widget_AppCompat_ActionBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::MemoryGame.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::MODEL.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::MemoryGame.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::MemoryGame.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::MODEL.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::MemoryGame.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::MODEL.Resource.Style.Widget_AppCompat_ActionButton = global::MemoryGame.Resource.Style.Widget_AppCompat_ActionButton;
+			global::MODEL.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::MemoryGame.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::MODEL.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::MemoryGame.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::MODEL.Resource.Style.Widget_AppCompat_ActionMode = global::MemoryGame.Resource.Style.Widget_AppCompat_ActionMode;
+			global::MODEL.Resource.Style.Widget_AppCompat_ActivityChooserView = global::MemoryGame.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::MODEL.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::MemoryGame.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::MODEL.Resource.Style.Widget_AppCompat_Button = global::MemoryGame.Resource.Style.Widget_AppCompat_Button;
+			global::MODEL.Resource.Style.Widget_AppCompat_ButtonBar = global::MemoryGame.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::MemoryGame.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::MODEL.Resource.Style.Widget_AppCompat_Button_Borderless = global::MemoryGame.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::MODEL.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::MemoryGame.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::MODEL.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::MemoryGame.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::MODEL.Resource.Style.Widget_AppCompat_Button_Colored = global::MemoryGame.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::MODEL.Resource.Style.Widget_AppCompat_Button_Small = global::MemoryGame.Resource.Style.Widget_AppCompat_Button_Small;
+			global::MODEL.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::MemoryGame.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::MODEL.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::MemoryGame.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::MODEL.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::MemoryGame.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::MODEL.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::MemoryGame.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::MODEL.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::MemoryGame.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::MODEL.Resource.Style.Widget_AppCompat_EditText = global::MemoryGame.Resource.Style.Widget_AppCompat_EditText;
+			global::MODEL.Resource.Style.Widget_AppCompat_ImageButton = global::MemoryGame.Resource.Style.Widget_AppCompat_ImageButton;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionBar = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionButton = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_SearchView = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::MODEL.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::MemoryGame.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_ListMenuView = global::MemoryGame.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::MODEL.Resource.Style.Widget_AppCompat_ListPopupWindow = global::MemoryGame.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::MODEL.Resource.Style.Widget_AppCompat_ListView = global::MemoryGame.Resource.Style.Widget_AppCompat_ListView;
+			global::MODEL.Resource.Style.Widget_AppCompat_ListView_DropDown = global::MemoryGame.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::MODEL.Resource.Style.Widget_AppCompat_ListView_Menu = global::MemoryGame.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::MODEL.Resource.Style.Widget_AppCompat_PopupMenu = global::MemoryGame.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::MODEL.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::MemoryGame.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::MODEL.Resource.Style.Widget_AppCompat_PopupWindow = global::MemoryGame.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::MODEL.Resource.Style.Widget_AppCompat_ProgressBar = global::MemoryGame.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::MemoryGame.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::MODEL.Resource.Style.Widget_AppCompat_RatingBar = global::MemoryGame.Resource.Style.Widget_AppCompat_RatingBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::MemoryGame.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::MODEL.Resource.Style.Widget_AppCompat_RatingBar_Small = global::MemoryGame.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::MODEL.Resource.Style.Widget_AppCompat_SearchView = global::MemoryGame.Resource.Style.Widget_AppCompat_SearchView;
+			global::MODEL.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::MemoryGame.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_SeekBar = global::MemoryGame.Resource.Style.Widget_AppCompat_SeekBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::MemoryGame.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::MODEL.Resource.Style.Widget_AppCompat_Spinner = global::MemoryGame.Resource.Style.Widget_AppCompat_Spinner;
+			global::MODEL.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::MemoryGame.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::MODEL.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::MemoryGame.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::MODEL.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::MemoryGame.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::MODEL.Resource.Style.Widget_AppCompat_TextView = global::MemoryGame.Resource.Style.Widget_AppCompat_TextView;
+			global::MODEL.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::MemoryGame.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::MODEL.Resource.Style.Widget_AppCompat_Toolbar = global::MemoryGame.Resource.Style.Widget_AppCompat_Toolbar;
+			global::MODEL.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::MemoryGame.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::MODEL.Resource.Style.Widget_Compat_NotificationActionContainer = global::MemoryGame.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::MODEL.Resource.Style.Widget_Compat_NotificationActionText = global::MemoryGame.Resource.Style.Widget_Compat_NotificationActionText;
+			global::MODEL.Resource.Styleable.ActionBar = global::MemoryGame.Resource.Styleable.ActionBar;
+			global::MODEL.Resource.Styleable.ActionBarLayout = global::MemoryGame.Resource.Styleable.ActionBarLayout;
+			global::MODEL.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::MemoryGame.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::MODEL.Resource.Styleable.ActionBar_background = global::MemoryGame.Resource.Styleable.ActionBar_background;
+			global::MODEL.Resource.Styleable.ActionBar_backgroundSplit = global::MemoryGame.Resource.Styleable.ActionBar_backgroundSplit;
+			global::MODEL.Resource.Styleable.ActionBar_backgroundStacked = global::MemoryGame.Resource.Styleable.ActionBar_backgroundStacked;
+			global::MODEL.Resource.Styleable.ActionBar_contentInsetEnd = global::MemoryGame.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::MODEL.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::MemoryGame.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::MODEL.Resource.Styleable.ActionBar_contentInsetLeft = global::MemoryGame.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::MODEL.Resource.Styleable.ActionBar_contentInsetRight = global::MemoryGame.Resource.Styleable.ActionBar_contentInsetRight;
+			global::MODEL.Resource.Styleable.ActionBar_contentInsetStart = global::MemoryGame.Resource.Styleable.ActionBar_contentInsetStart;
+			global::MODEL.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::MemoryGame.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::MODEL.Resource.Styleable.ActionBar_customNavigationLayout = global::MemoryGame.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::MODEL.Resource.Styleable.ActionBar_displayOptions = global::MemoryGame.Resource.Styleable.ActionBar_displayOptions;
+			global::MODEL.Resource.Styleable.ActionBar_divider = global::MemoryGame.Resource.Styleable.ActionBar_divider;
+			global::MODEL.Resource.Styleable.ActionBar_elevation = global::MemoryGame.Resource.Styleable.ActionBar_elevation;
+			global::MODEL.Resource.Styleable.ActionBar_height = global::MemoryGame.Resource.Styleable.ActionBar_height;
+			global::MODEL.Resource.Styleable.ActionBar_hideOnContentScroll = global::MemoryGame.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::MODEL.Resource.Styleable.ActionBar_homeAsUpIndicator = global::MemoryGame.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::MODEL.Resource.Styleable.ActionBar_homeLayout = global::MemoryGame.Resource.Styleable.ActionBar_homeLayout;
+			global::MODEL.Resource.Styleable.ActionBar_icon = global::MemoryGame.Resource.Styleable.ActionBar_icon;
+			global::MODEL.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::MemoryGame.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::MODEL.Resource.Styleable.ActionBar_itemPadding = global::MemoryGame.Resource.Styleable.ActionBar_itemPadding;
+			global::MODEL.Resource.Styleable.ActionBar_logo = global::MemoryGame.Resource.Styleable.ActionBar_logo;
+			global::MODEL.Resource.Styleable.ActionBar_navigationMode = global::MemoryGame.Resource.Styleable.ActionBar_navigationMode;
+			global::MODEL.Resource.Styleable.ActionBar_popupTheme = global::MemoryGame.Resource.Styleable.ActionBar_popupTheme;
+			global::MODEL.Resource.Styleable.ActionBar_progressBarPadding = global::MemoryGame.Resource.Styleable.ActionBar_progressBarPadding;
+			global::MODEL.Resource.Styleable.ActionBar_progressBarStyle = global::MemoryGame.Resource.Styleable.ActionBar_progressBarStyle;
+			global::MODEL.Resource.Styleable.ActionBar_subtitle = global::MemoryGame.Resource.Styleable.ActionBar_subtitle;
+			global::MODEL.Resource.Styleable.ActionBar_subtitleTextStyle = global::MemoryGame.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::MODEL.Resource.Styleable.ActionBar_title = global::MemoryGame.Resource.Styleable.ActionBar_title;
+			global::MODEL.Resource.Styleable.ActionBar_titleTextStyle = global::MemoryGame.Resource.Styleable.ActionBar_titleTextStyle;
+			global::MODEL.Resource.Styleable.ActionMenuItemView = global::MemoryGame.Resource.Styleable.ActionMenuItemView;
+			global::MODEL.Resource.Styleable.ActionMenuItemView_android_minWidth = global::MemoryGame.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::MODEL.Resource.Styleable.ActionMenuView = global::MemoryGame.Resource.Styleable.ActionMenuView;
+			global::MODEL.Resource.Styleable.ActionMode = global::MemoryGame.Resource.Styleable.ActionMode;
+			global::MODEL.Resource.Styleable.ActionMode_background = global::MemoryGame.Resource.Styleable.ActionMode_background;
+			global::MODEL.Resource.Styleable.ActionMode_backgroundSplit = global::MemoryGame.Resource.Styleable.ActionMode_backgroundSplit;
+			global::MODEL.Resource.Styleable.ActionMode_closeItemLayout = global::MemoryGame.Resource.Styleable.ActionMode_closeItemLayout;
+			global::MODEL.Resource.Styleable.ActionMode_height = global::MemoryGame.Resource.Styleable.ActionMode_height;
+			global::MODEL.Resource.Styleable.ActionMode_subtitleTextStyle = global::MemoryGame.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::MODEL.Resource.Styleable.ActionMode_titleTextStyle = global::MemoryGame.Resource.Styleable.ActionMode_titleTextStyle;
+			global::MODEL.Resource.Styleable.ActivityChooserView = global::MemoryGame.Resource.Styleable.ActivityChooserView;
+			global::MODEL.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::MemoryGame.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::MODEL.Resource.Styleable.ActivityChooserView_initialActivityCount = global::MemoryGame.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::MODEL.Resource.Styleable.AlertDialog = global::MemoryGame.Resource.Styleable.AlertDialog;
+			global::MODEL.Resource.Styleable.AlertDialog_android_layout = global::MemoryGame.Resource.Styleable.AlertDialog_android_layout;
+			global::MODEL.Resource.Styleable.AlertDialog_buttonIconDimen = global::MemoryGame.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::MODEL.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::MemoryGame.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::MODEL.Resource.Styleable.AlertDialog_listItemLayout = global::MemoryGame.Resource.Styleable.AlertDialog_listItemLayout;
+			global::MODEL.Resource.Styleable.AlertDialog_listLayout = global::MemoryGame.Resource.Styleable.AlertDialog_listLayout;
+			global::MODEL.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::MemoryGame.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::MODEL.Resource.Styleable.AlertDialog_showTitle = global::MemoryGame.Resource.Styleable.AlertDialog_showTitle;
+			global::MODEL.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::MemoryGame.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableCompat = global::MemoryGame.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::MemoryGame.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::MemoryGame.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::MemoryGame.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::MemoryGame.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::MemoryGame.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::MemoryGame.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableItem = global::MemoryGame.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::MemoryGame.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::MemoryGame.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableTransition = global::MemoryGame.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::MemoryGame.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::MemoryGame.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::MemoryGame.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::MODEL.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::MemoryGame.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::MODEL.Resource.Styleable.AppCompatImageView = global::MemoryGame.Resource.Styleable.AppCompatImageView;
+			global::MODEL.Resource.Styleable.AppCompatImageView_android_src = global::MemoryGame.Resource.Styleable.AppCompatImageView_android_src;
+			global::MODEL.Resource.Styleable.AppCompatImageView_srcCompat = global::MemoryGame.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::MODEL.Resource.Styleable.AppCompatImageView_tint = global::MemoryGame.Resource.Styleable.AppCompatImageView_tint;
+			global::MODEL.Resource.Styleable.AppCompatImageView_tintMode = global::MemoryGame.Resource.Styleable.AppCompatImageView_tintMode;
+			global::MODEL.Resource.Styleable.AppCompatSeekBar = global::MemoryGame.Resource.Styleable.AppCompatSeekBar;
+			global::MODEL.Resource.Styleable.AppCompatSeekBar_android_thumb = global::MemoryGame.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::MODEL.Resource.Styleable.AppCompatSeekBar_tickMark = global::MemoryGame.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::MODEL.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::MemoryGame.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::MODEL.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::MemoryGame.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::MODEL.Resource.Styleable.AppCompatTextHelper = global::MemoryGame.Resource.Styleable.AppCompatTextHelper;
+			global::MODEL.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::MemoryGame.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::MODEL.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::MemoryGame.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::MODEL.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::MemoryGame.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::MODEL.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::MemoryGame.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::MODEL.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::MemoryGame.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::MODEL.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::MemoryGame.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::MODEL.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::MemoryGame.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::MODEL.Resource.Styleable.AppCompatTextView = global::MemoryGame.Resource.Styleable.AppCompatTextView;
+			global::MODEL.Resource.Styleable.AppCompatTextView_android_textAppearance = global::MemoryGame.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::MODEL.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::MemoryGame.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::MODEL.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::MemoryGame.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::MODEL.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::MemoryGame.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::MODEL.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::MemoryGame.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::MODEL.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::MemoryGame.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::MODEL.Resource.Styleable.AppCompatTextView_drawableBottomCompat = global::MemoryGame.Resource.Styleable.AppCompatTextView_drawableBottomCompat;
+			global::MODEL.Resource.Styleable.AppCompatTextView_drawableEndCompat = global::MemoryGame.Resource.Styleable.AppCompatTextView_drawableEndCompat;
+			global::MODEL.Resource.Styleable.AppCompatTextView_drawableLeftCompat = global::MemoryGame.Resource.Styleable.AppCompatTextView_drawableLeftCompat;
+			global::MODEL.Resource.Styleable.AppCompatTextView_drawableRightCompat = global::MemoryGame.Resource.Styleable.AppCompatTextView_drawableRightCompat;
+			global::MODEL.Resource.Styleable.AppCompatTextView_drawableStartCompat = global::MemoryGame.Resource.Styleable.AppCompatTextView_drawableStartCompat;
+			global::MODEL.Resource.Styleable.AppCompatTextView_drawableTint = global::MemoryGame.Resource.Styleable.AppCompatTextView_drawableTint;
+			global::MODEL.Resource.Styleable.AppCompatTextView_drawableTintMode = global::MemoryGame.Resource.Styleable.AppCompatTextView_drawableTintMode;
+			global::MODEL.Resource.Styleable.AppCompatTextView_drawableTopCompat = global::MemoryGame.Resource.Styleable.AppCompatTextView_drawableTopCompat;
+			global::MODEL.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::MemoryGame.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::MODEL.Resource.Styleable.AppCompatTextView_fontFamily = global::MemoryGame.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::MODEL.Resource.Styleable.AppCompatTextView_fontVariationSettings = global::MemoryGame.Resource.Styleable.AppCompatTextView_fontVariationSettings;
+			global::MODEL.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::MemoryGame.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::MODEL.Resource.Styleable.AppCompatTextView_lineHeight = global::MemoryGame.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::MODEL.Resource.Styleable.AppCompatTextView_textAllCaps = global::MemoryGame.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::MODEL.Resource.Styleable.AppCompatTextView_textLocale = global::MemoryGame.Resource.Styleable.AppCompatTextView_textLocale;
+			global::MODEL.Resource.Styleable.AppCompatTheme = global::MemoryGame.Resource.Styleable.AppCompatTheme;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarDivider = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarSize = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarTheme = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeBackground = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::MemoryGame.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::MODEL.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::MemoryGame.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::MODEL.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::MemoryGame.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::MODEL.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_buttonStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::MemoryGame.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::MODEL.Resource.Styleable.AppCompatTheme_checkboxStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_colorAccent = global::MemoryGame.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::MODEL.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::MemoryGame.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::MODEL.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::MemoryGame.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::MODEL.Resource.Styleable.AppCompatTheme_colorControlActivated = global::MemoryGame.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::MODEL.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::MemoryGame.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::MODEL.Resource.Styleable.AppCompatTheme_colorControlNormal = global::MemoryGame.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::MODEL.Resource.Styleable.AppCompatTheme_colorError = global::MemoryGame.Resource.Styleable.AppCompatTheme_colorError;
+			global::MODEL.Resource.Styleable.AppCompatTheme_colorPrimary = global::MemoryGame.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::MODEL.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::MemoryGame.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::MODEL.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::MemoryGame.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::MODEL.Resource.Styleable.AppCompatTheme_controlBackground = global::MemoryGame.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::MODEL.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::MemoryGame.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::MODEL.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::MemoryGame.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::MODEL.Resource.Styleable.AppCompatTheme_dialogTheme = global::MemoryGame.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::MODEL.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::MemoryGame.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::MODEL.Resource.Styleable.AppCompatTheme_dividerVertical = global::MemoryGame.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::MODEL.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::MemoryGame.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::MODEL.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_editTextBackground = global::MemoryGame.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::MODEL.Resource.Styleable.AppCompatTheme_editTextColor = global::MemoryGame.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::MODEL.Resource.Styleable.AppCompatTheme_editTextStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::MemoryGame.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::MODEL.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::MemoryGame.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated = global::MemoryGame.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated = global::MemoryGame.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::MemoryGame.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::MemoryGame.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::MemoryGame.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::MemoryGame.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd = global::MemoryGame.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::MemoryGame.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::MemoryGame.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::MODEL.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart = global::MemoryGame.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart;
+			global::MODEL.Resource.Styleable.AppCompatTheme_panelBackground = global::MemoryGame.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::MODEL.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::MemoryGame.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::MODEL.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::MemoryGame.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::MODEL.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::MemoryGame.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::MODEL.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::MemoryGame.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::MODEL.Resource.Styleable.AppCompatTheme_searchViewStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_seekBarStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::MemoryGame.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::MODEL.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::MemoryGame.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::MODEL.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_spinnerStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_switchStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::MemoryGame.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::MODEL.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::MemoryGame.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::MODEL.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::MemoryGame.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::MODEL.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::MemoryGame.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::MODEL.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::MemoryGame.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::MODEL.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::MemoryGame.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::MemoryGame.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::MemoryGame.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::MODEL.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::MemoryGame.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::MODEL.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::MemoryGame.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::MODEL.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_toolbarStyle = global::MemoryGame.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::MODEL.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::MemoryGame.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::MODEL.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::MemoryGame.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::MODEL.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::MemoryGame.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::MODEL.Resource.Styleable.AppCompatTheme_windowActionBar = global::MemoryGame.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::MODEL.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::MemoryGame.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::MODEL.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::MemoryGame.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::MODEL.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::MemoryGame.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::MODEL.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::MemoryGame.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::MODEL.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::MemoryGame.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::MODEL.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::MemoryGame.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::MODEL.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::MemoryGame.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::MODEL.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::MemoryGame.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::MODEL.Resource.Styleable.AppCompatTheme_windowNoTitle = global::MemoryGame.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::MODEL.Resource.Styleable.ButtonBarLayout = global::MemoryGame.Resource.Styleable.ButtonBarLayout;
+			global::MODEL.Resource.Styleable.ButtonBarLayout_allowStacking = global::MemoryGame.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::MODEL.Resource.Styleable.ColorStateListItem = global::MemoryGame.Resource.Styleable.ColorStateListItem;
+			global::MODEL.Resource.Styleable.ColorStateListItem_alpha = global::MemoryGame.Resource.Styleable.ColorStateListItem_alpha;
+			global::MODEL.Resource.Styleable.ColorStateListItem_android_alpha = global::MemoryGame.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::MODEL.Resource.Styleable.ColorStateListItem_android_color = global::MemoryGame.Resource.Styleable.ColorStateListItem_android_color;
+			global::MODEL.Resource.Styleable.CompoundButton = global::MemoryGame.Resource.Styleable.CompoundButton;
+			global::MODEL.Resource.Styleable.CompoundButton_android_button = global::MemoryGame.Resource.Styleable.CompoundButton_android_button;
+			global::MODEL.Resource.Styleable.CompoundButton_buttonCompat = global::MemoryGame.Resource.Styleable.CompoundButton_buttonCompat;
+			global::MODEL.Resource.Styleable.CompoundButton_buttonTint = global::MemoryGame.Resource.Styleable.CompoundButton_buttonTint;
+			global::MODEL.Resource.Styleable.CompoundButton_buttonTintMode = global::MemoryGame.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::MODEL.Resource.Styleable.DrawerArrowToggle = global::MemoryGame.Resource.Styleable.DrawerArrowToggle;
+			global::MODEL.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::MemoryGame.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::MODEL.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::MemoryGame.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::MODEL.Resource.Styleable.DrawerArrowToggle_barLength = global::MemoryGame.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::MODEL.Resource.Styleable.DrawerArrowToggle_color = global::MemoryGame.Resource.Styleable.DrawerArrowToggle_color;
+			global::MODEL.Resource.Styleable.DrawerArrowToggle_drawableSize = global::MemoryGame.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::MODEL.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::MemoryGame.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::MODEL.Resource.Styleable.DrawerArrowToggle_spinBars = global::MemoryGame.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::MODEL.Resource.Styleable.DrawerArrowToggle_thickness = global::MemoryGame.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::MODEL.Resource.Styleable.DrawerLayout = global::MemoryGame.Resource.Styleable.DrawerLayout;
+			global::MODEL.Resource.Styleable.DrawerLayout_elevation = global::MemoryGame.Resource.Styleable.DrawerLayout_elevation;
+			global::MODEL.Resource.Styleable.FontFamily = global::MemoryGame.Resource.Styleable.FontFamily;
+			global::MODEL.Resource.Styleable.FontFamilyFont = global::MemoryGame.Resource.Styleable.FontFamilyFont;
+			global::MODEL.Resource.Styleable.FontFamilyFont_android_font = global::MemoryGame.Resource.Styleable.FontFamilyFont_android_font;
+			global::MODEL.Resource.Styleable.FontFamilyFont_android_fontStyle = global::MemoryGame.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::MODEL.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::MemoryGame.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::MODEL.Resource.Styleable.FontFamilyFont_android_fontWeight = global::MemoryGame.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::MODEL.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::MemoryGame.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::MODEL.Resource.Styleable.FontFamilyFont_font = global::MemoryGame.Resource.Styleable.FontFamilyFont_font;
+			global::MODEL.Resource.Styleable.FontFamilyFont_fontStyle = global::MemoryGame.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::MODEL.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::MemoryGame.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::MODEL.Resource.Styleable.FontFamilyFont_fontWeight = global::MemoryGame.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::MODEL.Resource.Styleable.FontFamilyFont_ttcIndex = global::MemoryGame.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::MODEL.Resource.Styleable.FontFamily_fontProviderAuthority = global::MemoryGame.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::MODEL.Resource.Styleable.FontFamily_fontProviderCerts = global::MemoryGame.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::MODEL.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::MemoryGame.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::MODEL.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::MemoryGame.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::MODEL.Resource.Styleable.FontFamily_fontProviderPackage = global::MemoryGame.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::MODEL.Resource.Styleable.FontFamily_fontProviderQuery = global::MemoryGame.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::MODEL.Resource.Styleable.Fragment = global::MemoryGame.Resource.Styleable.Fragment;
+			global::MODEL.Resource.Styleable.FragmentContainerView = global::MemoryGame.Resource.Styleable.FragmentContainerView;
+			global::MODEL.Resource.Styleable.FragmentContainerView_android_name = global::MemoryGame.Resource.Styleable.FragmentContainerView_android_name;
+			global::MODEL.Resource.Styleable.FragmentContainerView_android_tag = global::MemoryGame.Resource.Styleable.FragmentContainerView_android_tag;
+			global::MODEL.Resource.Styleable.Fragment_android_id = global::MemoryGame.Resource.Styleable.Fragment_android_id;
+			global::MODEL.Resource.Styleable.Fragment_android_name = global::MemoryGame.Resource.Styleable.Fragment_android_name;
+			global::MODEL.Resource.Styleable.Fragment_android_tag = global::MemoryGame.Resource.Styleable.Fragment_android_tag;
+			global::MODEL.Resource.Styleable.GradientColor = global::MemoryGame.Resource.Styleable.GradientColor;
+			global::MODEL.Resource.Styleable.GradientColorItem = global::MemoryGame.Resource.Styleable.GradientColorItem;
+			global::MODEL.Resource.Styleable.GradientColorItem_android_color = global::MemoryGame.Resource.Styleable.GradientColorItem_android_color;
+			global::MODEL.Resource.Styleable.GradientColorItem_android_offset = global::MemoryGame.Resource.Styleable.GradientColorItem_android_offset;
+			global::MODEL.Resource.Styleable.GradientColor_android_centerColor = global::MemoryGame.Resource.Styleable.GradientColor_android_centerColor;
+			global::MODEL.Resource.Styleable.GradientColor_android_centerX = global::MemoryGame.Resource.Styleable.GradientColor_android_centerX;
+			global::MODEL.Resource.Styleable.GradientColor_android_centerY = global::MemoryGame.Resource.Styleable.GradientColor_android_centerY;
+			global::MODEL.Resource.Styleable.GradientColor_android_endColor = global::MemoryGame.Resource.Styleable.GradientColor_android_endColor;
+			global::MODEL.Resource.Styleable.GradientColor_android_endX = global::MemoryGame.Resource.Styleable.GradientColor_android_endX;
+			global::MODEL.Resource.Styleable.GradientColor_android_endY = global::MemoryGame.Resource.Styleable.GradientColor_android_endY;
+			global::MODEL.Resource.Styleable.GradientColor_android_gradientRadius = global::MemoryGame.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::MODEL.Resource.Styleable.GradientColor_android_startColor = global::MemoryGame.Resource.Styleable.GradientColor_android_startColor;
+			global::MODEL.Resource.Styleable.GradientColor_android_startX = global::MemoryGame.Resource.Styleable.GradientColor_android_startX;
+			global::MODEL.Resource.Styleable.GradientColor_android_startY = global::MemoryGame.Resource.Styleable.GradientColor_android_startY;
+			global::MODEL.Resource.Styleable.GradientColor_android_tileMode = global::MemoryGame.Resource.Styleable.GradientColor_android_tileMode;
+			global::MODEL.Resource.Styleable.GradientColor_android_type = global::MemoryGame.Resource.Styleable.GradientColor_android_type;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat = global::MemoryGame.Resource.Styleable.LinearLayoutCompat;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::MemoryGame.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::MemoryGame.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_android_gravity = global::MemoryGame.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_android_orientation = global::MemoryGame.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::MemoryGame.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_divider = global::MemoryGame.Resource.Styleable.LinearLayoutCompat_divider;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::MemoryGame.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_Layout = global::MemoryGame.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::MemoryGame.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::MemoryGame.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::MemoryGame.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::MemoryGame.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::MemoryGame.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::MODEL.Resource.Styleable.LinearLayoutCompat_showDividers = global::MemoryGame.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::MODEL.Resource.Styleable.ListPopupWindow = global::MemoryGame.Resource.Styleable.ListPopupWindow;
+			global::MODEL.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::MemoryGame.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::MODEL.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::MemoryGame.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::MODEL.Resource.Styleable.MenuGroup = global::MemoryGame.Resource.Styleable.MenuGroup;
+			global::MODEL.Resource.Styleable.MenuGroup_android_checkableBehavior = global::MemoryGame.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::MODEL.Resource.Styleable.MenuGroup_android_enabled = global::MemoryGame.Resource.Styleable.MenuGroup_android_enabled;
+			global::MODEL.Resource.Styleable.MenuGroup_android_id = global::MemoryGame.Resource.Styleable.MenuGroup_android_id;
+			global::MODEL.Resource.Styleable.MenuGroup_android_menuCategory = global::MemoryGame.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::MODEL.Resource.Styleable.MenuGroup_android_orderInCategory = global::MemoryGame.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::MODEL.Resource.Styleable.MenuGroup_android_visible = global::MemoryGame.Resource.Styleable.MenuGroup_android_visible;
+			global::MODEL.Resource.Styleable.MenuItem = global::MemoryGame.Resource.Styleable.MenuItem;
+			global::MODEL.Resource.Styleable.MenuItem_actionLayout = global::MemoryGame.Resource.Styleable.MenuItem_actionLayout;
+			global::MODEL.Resource.Styleable.MenuItem_actionProviderClass = global::MemoryGame.Resource.Styleable.MenuItem_actionProviderClass;
+			global::MODEL.Resource.Styleable.MenuItem_actionViewClass = global::MemoryGame.Resource.Styleable.MenuItem_actionViewClass;
+			global::MODEL.Resource.Styleable.MenuItem_alphabeticModifiers = global::MemoryGame.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::MODEL.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::MemoryGame.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::MODEL.Resource.Styleable.MenuItem_android_checkable = global::MemoryGame.Resource.Styleable.MenuItem_android_checkable;
+			global::MODEL.Resource.Styleable.MenuItem_android_checked = global::MemoryGame.Resource.Styleable.MenuItem_android_checked;
+			global::MODEL.Resource.Styleable.MenuItem_android_enabled = global::MemoryGame.Resource.Styleable.MenuItem_android_enabled;
+			global::MODEL.Resource.Styleable.MenuItem_android_icon = global::MemoryGame.Resource.Styleable.MenuItem_android_icon;
+			global::MODEL.Resource.Styleable.MenuItem_android_id = global::MemoryGame.Resource.Styleable.MenuItem_android_id;
+			global::MODEL.Resource.Styleable.MenuItem_android_menuCategory = global::MemoryGame.Resource.Styleable.MenuItem_android_menuCategory;
+			global::MODEL.Resource.Styleable.MenuItem_android_numericShortcut = global::MemoryGame.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::MODEL.Resource.Styleable.MenuItem_android_onClick = global::MemoryGame.Resource.Styleable.MenuItem_android_onClick;
+			global::MODEL.Resource.Styleable.MenuItem_android_orderInCategory = global::MemoryGame.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::MODEL.Resource.Styleable.MenuItem_android_title = global::MemoryGame.Resource.Styleable.MenuItem_android_title;
+			global::MODEL.Resource.Styleable.MenuItem_android_titleCondensed = global::MemoryGame.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::MODEL.Resource.Styleable.MenuItem_android_visible = global::MemoryGame.Resource.Styleable.MenuItem_android_visible;
+			global::MODEL.Resource.Styleable.MenuItem_contentDescription = global::MemoryGame.Resource.Styleable.MenuItem_contentDescription;
+			global::MODEL.Resource.Styleable.MenuItem_iconTint = global::MemoryGame.Resource.Styleable.MenuItem_iconTint;
+			global::MODEL.Resource.Styleable.MenuItem_iconTintMode = global::MemoryGame.Resource.Styleable.MenuItem_iconTintMode;
+			global::MODEL.Resource.Styleable.MenuItem_numericModifiers = global::MemoryGame.Resource.Styleable.MenuItem_numericModifiers;
+			global::MODEL.Resource.Styleable.MenuItem_showAsAction = global::MemoryGame.Resource.Styleable.MenuItem_showAsAction;
+			global::MODEL.Resource.Styleable.MenuItem_tooltipText = global::MemoryGame.Resource.Styleable.MenuItem_tooltipText;
+			global::MODEL.Resource.Styleable.MenuView = global::MemoryGame.Resource.Styleable.MenuView;
+			global::MODEL.Resource.Styleable.MenuView_android_headerBackground = global::MemoryGame.Resource.Styleable.MenuView_android_headerBackground;
+			global::MODEL.Resource.Styleable.MenuView_android_horizontalDivider = global::MemoryGame.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::MODEL.Resource.Styleable.MenuView_android_itemBackground = global::MemoryGame.Resource.Styleable.MenuView_android_itemBackground;
+			global::MODEL.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::MemoryGame.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::MODEL.Resource.Styleable.MenuView_android_itemTextAppearance = global::MemoryGame.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::MODEL.Resource.Styleable.MenuView_android_verticalDivider = global::MemoryGame.Resource.Styleable.MenuView_android_verticalDivider;
+			global::MODEL.Resource.Styleable.MenuView_android_windowAnimationStyle = global::MemoryGame.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::MODEL.Resource.Styleable.MenuView_preserveIconSpacing = global::MemoryGame.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::MODEL.Resource.Styleable.MenuView_subMenuArrow = global::MemoryGame.Resource.Styleable.MenuView_subMenuArrow;
+			global::MODEL.Resource.Styleable.PopupWindow = global::MemoryGame.Resource.Styleable.PopupWindow;
+			global::MODEL.Resource.Styleable.PopupWindowBackgroundState = global::MemoryGame.Resource.Styleable.PopupWindowBackgroundState;
+			global::MODEL.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::MemoryGame.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::MODEL.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::MemoryGame.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::MODEL.Resource.Styleable.PopupWindow_android_popupBackground = global::MemoryGame.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::MODEL.Resource.Styleable.PopupWindow_overlapAnchor = global::MemoryGame.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::MODEL.Resource.Styleable.RecycleListView = global::MemoryGame.Resource.Styleable.RecycleListView;
+			global::MODEL.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::MemoryGame.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::MODEL.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::MemoryGame.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::MODEL.Resource.Styleable.SearchView = global::MemoryGame.Resource.Styleable.SearchView;
+			global::MODEL.Resource.Styleable.SearchView_android_focusable = global::MemoryGame.Resource.Styleable.SearchView_android_focusable;
+			global::MODEL.Resource.Styleable.SearchView_android_imeOptions = global::MemoryGame.Resource.Styleable.SearchView_android_imeOptions;
+			global::MODEL.Resource.Styleable.SearchView_android_inputType = global::MemoryGame.Resource.Styleable.SearchView_android_inputType;
+			global::MODEL.Resource.Styleable.SearchView_android_maxWidth = global::MemoryGame.Resource.Styleable.SearchView_android_maxWidth;
+			global::MODEL.Resource.Styleable.SearchView_closeIcon = global::MemoryGame.Resource.Styleable.SearchView_closeIcon;
+			global::MODEL.Resource.Styleable.SearchView_commitIcon = global::MemoryGame.Resource.Styleable.SearchView_commitIcon;
+			global::MODEL.Resource.Styleable.SearchView_defaultQueryHint = global::MemoryGame.Resource.Styleable.SearchView_defaultQueryHint;
+			global::MODEL.Resource.Styleable.SearchView_goIcon = global::MemoryGame.Resource.Styleable.SearchView_goIcon;
+			global::MODEL.Resource.Styleable.SearchView_iconifiedByDefault = global::MemoryGame.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::MODEL.Resource.Styleable.SearchView_layout = global::MemoryGame.Resource.Styleable.SearchView_layout;
+			global::MODEL.Resource.Styleable.SearchView_queryBackground = global::MemoryGame.Resource.Styleable.SearchView_queryBackground;
+			global::MODEL.Resource.Styleable.SearchView_queryHint = global::MemoryGame.Resource.Styleable.SearchView_queryHint;
+			global::MODEL.Resource.Styleable.SearchView_searchHintIcon = global::MemoryGame.Resource.Styleable.SearchView_searchHintIcon;
+			global::MODEL.Resource.Styleable.SearchView_searchIcon = global::MemoryGame.Resource.Styleable.SearchView_searchIcon;
+			global::MODEL.Resource.Styleable.SearchView_submitBackground = global::MemoryGame.Resource.Styleable.SearchView_submitBackground;
+			global::MODEL.Resource.Styleable.SearchView_suggestionRowLayout = global::MemoryGame.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::MODEL.Resource.Styleable.SearchView_voiceIcon = global::MemoryGame.Resource.Styleable.SearchView_voiceIcon;
+			global::MODEL.Resource.Styleable.Spinner = global::MemoryGame.Resource.Styleable.Spinner;
+			global::MODEL.Resource.Styleable.Spinner_android_dropDownWidth = global::MemoryGame.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::MODEL.Resource.Styleable.Spinner_android_entries = global::MemoryGame.Resource.Styleable.Spinner_android_entries;
+			global::MODEL.Resource.Styleable.Spinner_android_popupBackground = global::MemoryGame.Resource.Styleable.Spinner_android_popupBackground;
+			global::MODEL.Resource.Styleable.Spinner_android_prompt = global::MemoryGame.Resource.Styleable.Spinner_android_prompt;
+			global::MODEL.Resource.Styleable.Spinner_popupTheme = global::MemoryGame.Resource.Styleable.Spinner_popupTheme;
+			global::MODEL.Resource.Styleable.StateListDrawable = global::MemoryGame.Resource.Styleable.StateListDrawable;
+			global::MODEL.Resource.Styleable.StateListDrawableItem = global::MemoryGame.Resource.Styleable.StateListDrawableItem;
+			global::MODEL.Resource.Styleable.StateListDrawableItem_android_drawable = global::MemoryGame.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::MODEL.Resource.Styleable.StateListDrawable_android_constantSize = global::MemoryGame.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::MODEL.Resource.Styleable.StateListDrawable_android_dither = global::MemoryGame.Resource.Styleable.StateListDrawable_android_dither;
+			global::MODEL.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::MemoryGame.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::MODEL.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::MemoryGame.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::MODEL.Resource.Styleable.StateListDrawable_android_variablePadding = global::MemoryGame.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::MODEL.Resource.Styleable.StateListDrawable_android_visible = global::MemoryGame.Resource.Styleable.StateListDrawable_android_visible;
+			global::MODEL.Resource.Styleable.SwitchCompat = global::MemoryGame.Resource.Styleable.SwitchCompat;
+			global::MODEL.Resource.Styleable.SwitchCompat_android_textOff = global::MemoryGame.Resource.Styleable.SwitchCompat_android_textOff;
+			global::MODEL.Resource.Styleable.SwitchCompat_android_textOn = global::MemoryGame.Resource.Styleable.SwitchCompat_android_textOn;
+			global::MODEL.Resource.Styleable.SwitchCompat_android_thumb = global::MemoryGame.Resource.Styleable.SwitchCompat_android_thumb;
+			global::MODEL.Resource.Styleable.SwitchCompat_showText = global::MemoryGame.Resource.Styleable.SwitchCompat_showText;
+			global::MODEL.Resource.Styleable.SwitchCompat_splitTrack = global::MemoryGame.Resource.Styleable.SwitchCompat_splitTrack;
+			global::MODEL.Resource.Styleable.SwitchCompat_switchMinWidth = global::MemoryGame.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::MODEL.Resource.Styleable.SwitchCompat_switchPadding = global::MemoryGame.Resource.Styleable.SwitchCompat_switchPadding;
+			global::MODEL.Resource.Styleable.SwitchCompat_switchTextAppearance = global::MemoryGame.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::MODEL.Resource.Styleable.SwitchCompat_thumbTextPadding = global::MemoryGame.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::MODEL.Resource.Styleable.SwitchCompat_thumbTint = global::MemoryGame.Resource.Styleable.SwitchCompat_thumbTint;
+			global::MODEL.Resource.Styleable.SwitchCompat_thumbTintMode = global::MemoryGame.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::MODEL.Resource.Styleable.SwitchCompat_track = global::MemoryGame.Resource.Styleable.SwitchCompat_track;
+			global::MODEL.Resource.Styleable.SwitchCompat_trackTint = global::MemoryGame.Resource.Styleable.SwitchCompat_trackTint;
+			global::MODEL.Resource.Styleable.SwitchCompat_trackTintMode = global::MemoryGame.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::MODEL.Resource.Styleable.TextAppearance = global::MemoryGame.Resource.Styleable.TextAppearance;
+			global::MODEL.Resource.Styleable.TextAppearance_android_fontFamily = global::MemoryGame.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::MODEL.Resource.Styleable.TextAppearance_android_shadowColor = global::MemoryGame.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::MODEL.Resource.Styleable.TextAppearance_android_shadowDx = global::MemoryGame.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::MODEL.Resource.Styleable.TextAppearance_android_shadowDy = global::MemoryGame.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::MODEL.Resource.Styleable.TextAppearance_android_shadowRadius = global::MemoryGame.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::MODEL.Resource.Styleable.TextAppearance_android_textColor = global::MemoryGame.Resource.Styleable.TextAppearance_android_textColor;
+			global::MODEL.Resource.Styleable.TextAppearance_android_textColorHint = global::MemoryGame.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::MODEL.Resource.Styleable.TextAppearance_android_textColorLink = global::MemoryGame.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::MODEL.Resource.Styleable.TextAppearance_android_textFontWeight = global::MemoryGame.Resource.Styleable.TextAppearance_android_textFontWeight;
+			global::MODEL.Resource.Styleable.TextAppearance_android_textSize = global::MemoryGame.Resource.Styleable.TextAppearance_android_textSize;
+			global::MODEL.Resource.Styleable.TextAppearance_android_textStyle = global::MemoryGame.Resource.Styleable.TextAppearance_android_textStyle;
+			global::MODEL.Resource.Styleable.TextAppearance_android_typeface = global::MemoryGame.Resource.Styleable.TextAppearance_android_typeface;
+			global::MODEL.Resource.Styleable.TextAppearance_fontFamily = global::MemoryGame.Resource.Styleable.TextAppearance_fontFamily;
+			global::MODEL.Resource.Styleable.TextAppearance_fontVariationSettings = global::MemoryGame.Resource.Styleable.TextAppearance_fontVariationSettings;
+			global::MODEL.Resource.Styleable.TextAppearance_textAllCaps = global::MemoryGame.Resource.Styleable.TextAppearance_textAllCaps;
+			global::MODEL.Resource.Styleable.TextAppearance_textLocale = global::MemoryGame.Resource.Styleable.TextAppearance_textLocale;
+			global::MODEL.Resource.Styleable.Toolbar = global::MemoryGame.Resource.Styleable.Toolbar;
+			global::MODEL.Resource.Styleable.Toolbar_android_gravity = global::MemoryGame.Resource.Styleable.Toolbar_android_gravity;
+			global::MODEL.Resource.Styleable.Toolbar_android_minHeight = global::MemoryGame.Resource.Styleable.Toolbar_android_minHeight;
+			global::MODEL.Resource.Styleable.Toolbar_buttonGravity = global::MemoryGame.Resource.Styleable.Toolbar_buttonGravity;
+			global::MODEL.Resource.Styleable.Toolbar_collapseContentDescription = global::MemoryGame.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::MODEL.Resource.Styleable.Toolbar_collapseIcon = global::MemoryGame.Resource.Styleable.Toolbar_collapseIcon;
+			global::MODEL.Resource.Styleable.Toolbar_contentInsetEnd = global::MemoryGame.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::MODEL.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::MemoryGame.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::MODEL.Resource.Styleable.Toolbar_contentInsetLeft = global::MemoryGame.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::MODEL.Resource.Styleable.Toolbar_contentInsetRight = global::MemoryGame.Resource.Styleable.Toolbar_contentInsetRight;
+			global::MODEL.Resource.Styleable.Toolbar_contentInsetStart = global::MemoryGame.Resource.Styleable.Toolbar_contentInsetStart;
+			global::MODEL.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::MemoryGame.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::MODEL.Resource.Styleable.Toolbar_logo = global::MemoryGame.Resource.Styleable.Toolbar_logo;
+			global::MODEL.Resource.Styleable.Toolbar_logoDescription = global::MemoryGame.Resource.Styleable.Toolbar_logoDescription;
+			global::MODEL.Resource.Styleable.Toolbar_maxButtonHeight = global::MemoryGame.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::MODEL.Resource.Styleable.Toolbar_menu = global::MemoryGame.Resource.Styleable.Toolbar_menu;
+			global::MODEL.Resource.Styleable.Toolbar_navigationContentDescription = global::MemoryGame.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::MODEL.Resource.Styleable.Toolbar_navigationIcon = global::MemoryGame.Resource.Styleable.Toolbar_navigationIcon;
+			global::MODEL.Resource.Styleable.Toolbar_popupTheme = global::MemoryGame.Resource.Styleable.Toolbar_popupTheme;
+			global::MODEL.Resource.Styleable.Toolbar_subtitle = global::MemoryGame.Resource.Styleable.Toolbar_subtitle;
+			global::MODEL.Resource.Styleable.Toolbar_subtitleTextAppearance = global::MemoryGame.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::MODEL.Resource.Styleable.Toolbar_subtitleTextColor = global::MemoryGame.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::MODEL.Resource.Styleable.Toolbar_title = global::MemoryGame.Resource.Styleable.Toolbar_title;
+			global::MODEL.Resource.Styleable.Toolbar_titleMargin = global::MemoryGame.Resource.Styleable.Toolbar_titleMargin;
+			global::MODEL.Resource.Styleable.Toolbar_titleMarginBottom = global::MemoryGame.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::MODEL.Resource.Styleable.Toolbar_titleMarginEnd = global::MemoryGame.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::MODEL.Resource.Styleable.Toolbar_titleMargins = global::MemoryGame.Resource.Styleable.Toolbar_titleMargins;
+			global::MODEL.Resource.Styleable.Toolbar_titleMarginStart = global::MemoryGame.Resource.Styleable.Toolbar_titleMarginStart;
+			global::MODEL.Resource.Styleable.Toolbar_titleMarginTop = global::MemoryGame.Resource.Styleable.Toolbar_titleMarginTop;
+			global::MODEL.Resource.Styleable.Toolbar_titleTextAppearance = global::MemoryGame.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::MODEL.Resource.Styleable.Toolbar_titleTextColor = global::MemoryGame.Resource.Styleable.Toolbar_titleTextColor;
+			global::MODEL.Resource.Styleable.View = global::MemoryGame.Resource.Styleable.View;
+			global::MODEL.Resource.Styleable.ViewBackgroundHelper = global::MemoryGame.Resource.Styleable.ViewBackgroundHelper;
+			global::MODEL.Resource.Styleable.ViewBackgroundHelper_android_background = global::MemoryGame.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::MODEL.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::MemoryGame.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::MODEL.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::MemoryGame.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::MODEL.Resource.Styleable.ViewStubCompat = global::MemoryGame.Resource.Styleable.ViewStubCompat;
+			global::MODEL.Resource.Styleable.ViewStubCompat_android_id = global::MemoryGame.Resource.Styleable.ViewStubCompat_android_id;
+			global::MODEL.Resource.Styleable.ViewStubCompat_android_inflatedId = global::MemoryGame.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::MODEL.Resource.Styleable.ViewStubCompat_android_layout = global::MemoryGame.Resource.Styleable.ViewStubCompat_android_layout;
+			global::MODEL.Resource.Styleable.View_android_focusable = global::MemoryGame.Resource.Styleable.View_android_focusable;
+			global::MODEL.Resource.Styleable.View_android_theme = global::MemoryGame.Resource.Styleable.View_android_theme;
+			global::MODEL.Resource.Styleable.View_paddingEnd = global::MemoryGame.Resource.Styleable.View_paddingEnd;
+			global::MODEL.Resource.Styleable.View_paddingStart = global::MemoryGame.Resource.Styleable.View_paddingStart;
+			global::MODEL.Resource.Styleable.View_theme = global::MemoryGame.Resource.Styleable.View_theme;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::MemoryGame.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::MemoryGame.Resource.Attribute.font;
 			global::Xamarin.Essentials.Resource.Attribute.fontProviderAuthority = global::MemoryGame.Resource.Attribute.fontProviderAuthority;
@@ -3266,106 +4968,112 @@ namespace MemoryGame
 			public const int avd_show_password = 2131165277;
 			
 			// aapt resource value: 0x7F07005E
-			public const int btn_checkbox_checked_mtrl = 2131165278;
+			public const int background_scales = 2131165278;
 			
 			// aapt resource value: 0x7F07005F
-			public const int btn_checkbox_checked_to_unchecked_mtrl_animation = 2131165279;
+			public const int btn_checkbox_checked_mtrl = 2131165279;
 			
 			// aapt resource value: 0x7F070060
-			public const int btn_checkbox_unchecked_mtrl = 2131165280;
+			public const int btn_checkbox_checked_to_unchecked_mtrl_animation = 2131165280;
 			
 			// aapt resource value: 0x7F070061
-			public const int btn_checkbox_unchecked_to_checked_mtrl_animation = 2131165281;
+			public const int btn_checkbox_unchecked_mtrl = 2131165281;
 			
 			// aapt resource value: 0x7F070062
-			public const int btn_radio_off_mtrl = 2131165282;
+			public const int btn_checkbox_unchecked_to_checked_mtrl_animation = 2131165282;
 			
 			// aapt resource value: 0x7F070063
-			public const int btn_radio_off_to_on_mtrl_animation = 2131165283;
+			public const int btn_radio_off_mtrl = 2131165283;
 			
 			// aapt resource value: 0x7F070064
-			public const int btn_radio_on_mtrl = 2131165284;
+			public const int btn_radio_off_to_on_mtrl_animation = 2131165284;
 			
 			// aapt resource value: 0x7F070065
-			public const int btn_radio_on_to_off_mtrl_animation = 2131165285;
+			public const int btn_radio_on_mtrl = 2131165285;
 			
 			// aapt resource value: 0x7F070066
-			public const int design_bottom_navigation_item_background = 2131165286;
+			public const int btn_radio_on_to_off_mtrl_animation = 2131165286;
 			
 			// aapt resource value: 0x7F070067
-			public const int design_fab_background = 2131165287;
+			public const int Card_Back = 2131165287;
 			
 			// aapt resource value: 0x7F070068
-			public const int design_ic_visibility = 2131165288;
+			public const int design_bottom_navigation_item_background = 2131165288;
 			
 			// aapt resource value: 0x7F070069
-			public const int design_ic_visibility_off = 2131165289;
+			public const int design_fab_background = 2131165289;
 			
 			// aapt resource value: 0x7F07006A
-			public const int design_password_eye = 2131165290;
+			public const int design_ic_visibility = 2131165290;
 			
 			// aapt resource value: 0x7F07006B
-			public const int design_snackbar_background = 2131165291;
+			public const int design_ic_visibility_off = 2131165291;
 			
 			// aapt resource value: 0x7F07006C
-			public const int ic_mtrl_chip_checked_black = 2131165292;
+			public const int design_password_eye = 2131165292;
 			
 			// aapt resource value: 0x7F07006D
-			public const int ic_mtrl_chip_checked_circle = 2131165293;
+			public const int design_snackbar_background = 2131165293;
 			
 			// aapt resource value: 0x7F07006E
-			public const int ic_mtrl_chip_close_circle = 2131165294;
+			public const int ic_mtrl_chip_checked_black = 2131165294;
 			
 			// aapt resource value: 0x7F07006F
-			public const int mtrl_snackbar_background = 2131165295;
+			public const int ic_mtrl_chip_checked_circle = 2131165295;
 			
 			// aapt resource value: 0x7F070070
-			public const int mtrl_tabs_default_indicator = 2131165296;
+			public const int ic_mtrl_chip_close_circle = 2131165296;
 			
 			// aapt resource value: 0x7F070071
-			public const int navigation_empty_icon = 2131165297;
+			public const int mtrl_snackbar_background = 2131165297;
 			
 			// aapt resource value: 0x7F070072
-			public const int notification_action_background = 2131165298;
+			public const int mtrl_tabs_default_indicator = 2131165298;
 			
 			// aapt resource value: 0x7F070073
-			public const int notification_bg = 2131165299;
+			public const int navigation_empty_icon = 2131165299;
 			
 			// aapt resource value: 0x7F070074
-			public const int notification_bg_low = 2131165300;
+			public const int notification_action_background = 2131165300;
 			
 			// aapt resource value: 0x7F070075
-			public const int notification_bg_low_normal = 2131165301;
+			public const int notification_bg = 2131165301;
 			
 			// aapt resource value: 0x7F070076
-			public const int notification_bg_low_pressed = 2131165302;
+			public const int notification_bg_low = 2131165302;
 			
 			// aapt resource value: 0x7F070077
-			public const int notification_bg_normal = 2131165303;
+			public const int notification_bg_low_normal = 2131165303;
 			
 			// aapt resource value: 0x7F070078
-			public const int notification_bg_normal_pressed = 2131165304;
+			public const int notification_bg_low_pressed = 2131165304;
 			
 			// aapt resource value: 0x7F070079
-			public const int notification_icon_background = 2131165305;
+			public const int notification_bg_normal = 2131165305;
 			
 			// aapt resource value: 0x7F07007A
-			public const int notification_template_icon_bg = 2131165306;
+			public const int notification_bg_normal_pressed = 2131165306;
 			
 			// aapt resource value: 0x7F07007B
-			public const int notification_template_icon_low_bg = 2131165307;
+			public const int notification_icon_background = 2131165307;
 			
 			// aapt resource value: 0x7F07007C
-			public const int notification_tile_bg = 2131165308;
+			public const int notification_template_icon_bg = 2131165308;
 			
 			// aapt resource value: 0x7F07007D
-			public const int notify_panel_notification_icon_bg = 2131165309;
+			public const int notification_template_icon_low_bg = 2131165309;
 			
 			// aapt resource value: 0x7F07007E
-			public const int tooltip_frame_dark = 2131165310;
+			public const int notification_tile_bg = 2131165310;
 			
 			// aapt resource value: 0x7F07007F
-			public const int tooltip_frame_light = 2131165311;
+			public const int notify_panel_notification_icon_bg = 2131165311;
+			
+			// aapt resource value: 0x7F070080
+			public const int tooltip_frame_dark = 2131165312;
+			
+			// aapt resource value: 0x7F070081
+			public const int tooltip_frame_light = 2131165313;
 			
 			static Drawable()
 			{
@@ -3729,364 +5437,400 @@ namespace MemoryGame
 			public const int ifRoom = 2131230838;
 			
 			// aapt resource value: 0x7F080077
-			public const int image = 2131230839;
+			public const int im2 = 2131230839;
 			
 			// aapt resource value: 0x7F080078
-			public const int info = 2131230840;
+			public const int image = 2131230840;
 			
 			// aapt resource value: 0x7F080079
-			public const int italic = 2131230841;
+			public const int img1 = 2131230841;
 			
 			// aapt resource value: 0x7F08007A
-			public const int item_touch_helper_previous_elevation = 2131230842;
+			public const int img10 = 2131230842;
 			
 			// aapt resource value: 0x7F08007B
-			public const int labeled = 2131230843;
+			public const int img11 = 2131230843;
 			
 			// aapt resource value: 0x7F08007C
-			public const int largeLabel = 2131230844;
+			public const int img12 = 2131230844;
 			
 			// aapt resource value: 0x7F08007D
-			public const int left = 2131230845;
+			public const int img3 = 2131230845;
 			
 			// aapt resource value: 0x7F08007E
-			public const int line1 = 2131230846;
+			public const int img4 = 2131230846;
 			
 			// aapt resource value: 0x7F08007F
-			public const int line3 = 2131230847;
+			public const int img5 = 2131230847;
 			
 			// aapt resource value: 0x7F080080
-			public const int listMode = 2131230848;
+			public const int img6 = 2131230848;
 			
 			// aapt resource value: 0x7F080081
-			public const int list_item = 2131230849;
+			public const int img7 = 2131230849;
 			
 			// aapt resource value: 0x7F080082
-			public const int masked = 2131230850;
+			public const int img8 = 2131230850;
 			
 			// aapt resource value: 0x7F080083
-			public const int message = 2131230851;
+			public const int img9 = 2131230851;
+			
+			// aapt resource value: 0x7F080084
+			public const int info = 2131230852;
+			
+			// aapt resource value: 0x7F080085
+			public const int italic = 2131230853;
+			
+			// aapt resource value: 0x7F080086
+			public const int item_touch_helper_previous_elevation = 2131230854;
+			
+			// aapt resource value: 0x7F080087
+			public const int labeled = 2131230855;
+			
+			// aapt resource value: 0x7F080088
+			public const int largeLabel = 2131230856;
+			
+			// aapt resource value: 0x7F080089
+			public const int left = 2131230857;
+			
+			// aapt resource value: 0x7F08008A
+			public const int line1 = 2131230858;
+			
+			// aapt resource value: 0x7F08008B
+			public const int line3 = 2131230859;
+			
+			// aapt resource value: 0x7F08008C
+			public const int listMode = 2131230860;
+			
+			// aapt resource value: 0x7F08008D
+			public const int list_item = 2131230861;
+			
+			// aapt resource value: 0x7F08008E
+			public const int masked = 2131230862;
+			
+			// aapt resource value: 0x7F08008F
+			public const int message = 2131230863;
 			
 			// aapt resource value: 0x7F080003
 			public const int META = 2131230723;
 			
-			// aapt resource value: 0x7F080084
-			public const int middle = 2131230852;
-			
-			// aapt resource value: 0x7F080085
-			public const int mini = 2131230853;
-			
-			// aapt resource value: 0x7F080086
-			public const int mtrl_child_content_container = 2131230854;
-			
-			// aapt resource value: 0x7F080087
-			public const int mtrl_internal_children_alpha_tag = 2131230855;
-			
-			// aapt resource value: 0x7F080088
-			public const int multiply = 2131230856;
-			
-			// aapt resource value: 0x7F080089
-			public const int navigation_header_container = 2131230857;
-			
-			// aapt resource value: 0x7F08008A
-			public const int never = 2131230858;
-			
-			// aapt resource value: 0x7F08008B
-			public const int none = 2131230859;
-			
-			// aapt resource value: 0x7F08008C
-			public const int normal = 2131230860;
-			
-			// aapt resource value: 0x7F08008D
-			public const int notification_background = 2131230861;
-			
-			// aapt resource value: 0x7F08008E
-			public const int notification_main_column = 2131230862;
-			
-			// aapt resource value: 0x7F08008F
-			public const int notification_main_column_container = 2131230863;
-			
 			// aapt resource value: 0x7F080090
-			public const int off = 2131230864;
+			public const int middle = 2131230864;
 			
 			// aapt resource value: 0x7F080091
-			public const int on = 2131230865;
+			public const int mini = 2131230865;
 			
 			// aapt resource value: 0x7F080092
-			public const int outline = 2131230866;
+			public const int mtrl_child_content_container = 2131230866;
 			
 			// aapt resource value: 0x7F080093
-			public const int parallax = 2131230867;
+			public const int mtrl_internal_children_alpha_tag = 2131230867;
 			
 			// aapt resource value: 0x7F080094
-			public const int parentPanel = 2131230868;
+			public const int multiply = 2131230868;
 			
 			// aapt resource value: 0x7F080095
-			public const int parent_matrix = 2131230869;
+			public const int navigation_header_container = 2131230869;
 			
 			// aapt resource value: 0x7F080096
-			public const int pin = 2131230870;
+			public const int never = 2131230870;
 			
 			// aapt resource value: 0x7F080097
-			public const int progress_circular = 2131230871;
+			public const int none = 2131230871;
 			
 			// aapt resource value: 0x7F080098
-			public const int progress_horizontal = 2131230872;
+			public const int normal = 2131230872;
 			
 			// aapt resource value: 0x7F080099
-			public const int radio = 2131230873;
+			public const int notification_background = 2131230873;
 			
 			// aapt resource value: 0x7F08009A
-			public const int right = 2131230874;
+			public const int notification_main_column = 2131230874;
 			
 			// aapt resource value: 0x7F08009B
-			public const int right_icon = 2131230875;
+			public const int notification_main_column_container = 2131230875;
 			
 			// aapt resource value: 0x7F08009C
-			public const int right_side = 2131230876;
+			public const int off = 2131230876;
 			
 			// aapt resource value: 0x7F08009D
-			public const int save_non_transition_alpha = 2131230877;
+			public const int on = 2131230877;
 			
 			// aapt resource value: 0x7F08009E
-			public const int save_overlay_view = 2131230878;
+			public const int outline = 2131230878;
 			
 			// aapt resource value: 0x7F08009F
-			public const int screen = 2131230879;
+			public const int parallax = 2131230879;
 			
 			// aapt resource value: 0x7F0800A0
-			public const int scroll = 2131230880;
-			
-			// aapt resource value: 0x7F0800A4
-			public const int scrollable = 2131230884;
+			public const int parentPanel = 2131230880;
 			
 			// aapt resource value: 0x7F0800A1
-			public const int scrollIndicatorDown = 2131230881;
+			public const int parent_matrix = 2131230881;
 			
 			// aapt resource value: 0x7F0800A2
-			public const int scrollIndicatorUp = 2131230882;
+			public const int pin = 2131230882;
 			
 			// aapt resource value: 0x7F0800A3
-			public const int scrollView = 2131230883;
+			public const int progress_circular = 2131230883;
+			
+			// aapt resource value: 0x7F0800A4
+			public const int progress_horizontal = 2131230884;
 			
 			// aapt resource value: 0x7F0800A5
-			public const int search_badge = 2131230885;
+			public const int radio = 2131230885;
 			
 			// aapt resource value: 0x7F0800A6
-			public const int search_bar = 2131230886;
+			public const int right = 2131230886;
 			
 			// aapt resource value: 0x7F0800A7
-			public const int search_button = 2131230887;
+			public const int right_icon = 2131230887;
 			
 			// aapt resource value: 0x7F0800A8
-			public const int search_close_btn = 2131230888;
+			public const int right_side = 2131230888;
 			
 			// aapt resource value: 0x7F0800A9
-			public const int search_edit_frame = 2131230889;
+			public const int save_non_transition_alpha = 2131230889;
 			
 			// aapt resource value: 0x7F0800AA
-			public const int search_go_btn = 2131230890;
+			public const int save_overlay_view = 2131230890;
 			
 			// aapt resource value: 0x7F0800AB
-			public const int search_mag_icon = 2131230891;
+			public const int screen = 2131230891;
 			
 			// aapt resource value: 0x7F0800AC
-			public const int search_plate = 2131230892;
-			
-			// aapt resource value: 0x7F0800AD
-			public const int search_src_text = 2131230893;
-			
-			// aapt resource value: 0x7F0800AE
-			public const int search_voice_btn = 2131230894;
+			public const int scroll = 2131230892;
 			
 			// aapt resource value: 0x7F0800B0
-			public const int selected = 2131230896;
+			public const int scrollable = 2131230896;
+			
+			// aapt resource value: 0x7F0800AD
+			public const int scrollIndicatorDown = 2131230893;
+			
+			// aapt resource value: 0x7F0800AE
+			public const int scrollIndicatorUp = 2131230894;
 			
 			// aapt resource value: 0x7F0800AF
-			public const int select_dialog_listview = 2131230895;
+			public const int scrollView = 2131230895;
+			
+			// aapt resource value: 0x7F0800B1
+			public const int search_badge = 2131230897;
+			
+			// aapt resource value: 0x7F0800B2
+			public const int search_bar = 2131230898;
+			
+			// aapt resource value: 0x7F0800B3
+			public const int search_button = 2131230899;
+			
+			// aapt resource value: 0x7F0800B4
+			public const int search_close_btn = 2131230900;
+			
+			// aapt resource value: 0x7F0800B5
+			public const int search_edit_frame = 2131230901;
+			
+			// aapt resource value: 0x7F0800B6
+			public const int search_go_btn = 2131230902;
+			
+			// aapt resource value: 0x7F0800B7
+			public const int search_mag_icon = 2131230903;
+			
+			// aapt resource value: 0x7F0800B8
+			public const int search_plate = 2131230904;
+			
+			// aapt resource value: 0x7F0800B9
+			public const int search_src_text = 2131230905;
+			
+			// aapt resource value: 0x7F0800BA
+			public const int search_voice_btn = 2131230906;
+			
+			// aapt resource value: 0x7F0800BC
+			public const int selected = 2131230908;
+			
+			// aapt resource value: 0x7F0800BB
+			public const int select_dialog_listview = 2131230907;
 			
 			// aapt resource value: 0x7F080004
 			public const int SHIFT = 2131230724;
 			
-			// aapt resource value: 0x7F0800B1
-			public const int shortcut = 2131230897;
-			
-			// aapt resource value: 0x7F0800B2
-			public const int showCustom = 2131230898;
-			
-			// aapt resource value: 0x7F0800B3
-			public const int showHome = 2131230899;
-			
-			// aapt resource value: 0x7F0800B4
-			public const int showTitle = 2131230900;
-			
-			// aapt resource value: 0x7F0800B5
-			public const int smallLabel = 2131230901;
-			
-			// aapt resource value: 0x7F0800B6
-			public const int snackbar_action = 2131230902;
-			
-			// aapt resource value: 0x7F0800B7
-			public const int snackbar_text = 2131230903;
-			
-			// aapt resource value: 0x7F0800B8
-			public const int snap = 2131230904;
-			
-			// aapt resource value: 0x7F0800B9
-			public const int snapMargins = 2131230905;
-			
-			// aapt resource value: 0x7F0800BA
-			public const int spacer = 2131230906;
-			
-			// aapt resource value: 0x7F0800BB
-			public const int split_action_bar = 2131230907;
-			
-			// aapt resource value: 0x7F0800BC
-			public const int src_atop = 2131230908;
-			
 			// aapt resource value: 0x7F0800BD
-			public const int src_in = 2131230909;
+			public const int shortcut = 2131230909;
 			
 			// aapt resource value: 0x7F0800BE
-			public const int src_over = 2131230910;
+			public const int showCustom = 2131230910;
 			
 			// aapt resource value: 0x7F0800BF
-			public const int start = 2131230911;
+			public const int showHome = 2131230911;
 			
 			// aapt resource value: 0x7F0800C0
-			public const int stretch = 2131230912;
+			public const int showTitle = 2131230912;
 			
 			// aapt resource value: 0x7F0800C1
-			public const int submenuarrow = 2131230913;
+			public const int smallLabel = 2131230913;
 			
 			// aapt resource value: 0x7F0800C2
-			public const int submit_area = 2131230914;
+			public const int snackbar_action = 2131230914;
+			
+			// aapt resource value: 0x7F0800C3
+			public const int snackbar_text = 2131230915;
+			
+			// aapt resource value: 0x7F0800C4
+			public const int snap = 2131230916;
+			
+			// aapt resource value: 0x7F0800C5
+			public const int snapMargins = 2131230917;
+			
+			// aapt resource value: 0x7F0800C6
+			public const int spacer = 2131230918;
+			
+			// aapt resource value: 0x7F0800C7
+			public const int split_action_bar = 2131230919;
+			
+			// aapt resource value: 0x7F0800C8
+			public const int src_atop = 2131230920;
+			
+			// aapt resource value: 0x7F0800C9
+			public const int src_in = 2131230921;
+			
+			// aapt resource value: 0x7F0800CA
+			public const int src_over = 2131230922;
+			
+			// aapt resource value: 0x7F0800CB
+			public const int start = 2131230923;
+			
+			// aapt resource value: 0x7F0800CC
+			public const int stretch = 2131230924;
+			
+			// aapt resource value: 0x7F0800CD
+			public const int submenuarrow = 2131230925;
+			
+			// aapt resource value: 0x7F0800CE
+			public const int submit_area = 2131230926;
 			
 			// aapt resource value: 0x7F080005
 			public const int SYM = 2131230725;
 			
-			// aapt resource value: 0x7F0800C3
-			public const int tabMode = 2131230915;
-			
-			// aapt resource value: 0x7F0800C4
-			public const int tag_accessibility_actions = 2131230916;
-			
-			// aapt resource value: 0x7F0800C5
-			public const int tag_accessibility_clickable_spans = 2131230917;
-			
-			// aapt resource value: 0x7F0800C6
-			public const int tag_accessibility_heading = 2131230918;
-			
-			// aapt resource value: 0x7F0800C7
-			public const int tag_accessibility_pane_title = 2131230919;
-			
-			// aapt resource value: 0x7F0800C8
-			public const int tag_screen_reader_focusable = 2131230920;
-			
-			// aapt resource value: 0x7F0800C9
-			public const int tag_transition_group = 2131230921;
-			
-			// aapt resource value: 0x7F0800CA
-			public const int tag_unhandled_key_event_manager = 2131230922;
-			
-			// aapt resource value: 0x7F0800CB
-			public const int tag_unhandled_key_listeners = 2131230923;
-			
-			// aapt resource value: 0x7F0800CC
-			public const int text = 2131230924;
-			
-			// aapt resource value: 0x7F0800CD
-			public const int text2 = 2131230925;
-			
-			// aapt resource value: 0x7F0800D2
-			public const int textinput_counter = 2131230930;
-			
-			// aapt resource value: 0x7F0800D3
-			public const int textinput_error = 2131230931;
-			
-			// aapt resource value: 0x7F0800D4
-			public const int textinput_helper_text = 2131230932;
-			
-			// aapt resource value: 0x7F0800CE
-			public const int textSpacerNoButtons = 2131230926;
-			
 			// aapt resource value: 0x7F0800CF
-			public const int textSpacerNoTitle = 2131230927;
+			public const int tabMode = 2131230927;
 			
 			// aapt resource value: 0x7F0800D0
-			public const int textStart = 2131230928;
+			public const int tag_accessibility_actions = 2131230928;
 			
 			// aapt resource value: 0x7F0800D1
-			public const int text_input_password_toggle = 2131230929;
+			public const int tag_accessibility_clickable_spans = 2131230929;
+			
+			// aapt resource value: 0x7F0800D2
+			public const int tag_accessibility_heading = 2131230930;
+			
+			// aapt resource value: 0x7F0800D3
+			public const int tag_accessibility_pane_title = 2131230931;
+			
+			// aapt resource value: 0x7F0800D4
+			public const int tag_screen_reader_focusable = 2131230932;
 			
 			// aapt resource value: 0x7F0800D5
-			public const int time = 2131230933;
+			public const int tag_transition_group = 2131230933;
 			
 			// aapt resource value: 0x7F0800D6
-			public const int title = 2131230934;
+			public const int tag_unhandled_key_event_manager = 2131230934;
 			
 			// aapt resource value: 0x7F0800D7
-			public const int titleDividerNoCustom = 2131230935;
+			public const int tag_unhandled_key_listeners = 2131230935;
 			
 			// aapt resource value: 0x7F0800D8
-			public const int title_template = 2131230936;
+			public const int text = 2131230936;
 			
 			// aapt resource value: 0x7F0800D9
-			public const int top = 2131230937;
-			
-			// aapt resource value: 0x7F0800DA
-			public const int topPanel = 2131230938;
-			
-			// aapt resource value: 0x7F0800DB
-			public const int touch_outside = 2131230939;
-			
-			// aapt resource value: 0x7F0800DC
-			public const int transition_current_scene = 2131230940;
-			
-			// aapt resource value: 0x7F0800DD
-			public const int transition_layout_save = 2131230941;
+			public const int text2 = 2131230937;
 			
 			// aapt resource value: 0x7F0800DE
-			public const int transition_position = 2131230942;
+			public const int textinput_counter = 2131230942;
 			
 			// aapt resource value: 0x7F0800DF
-			public const int transition_scene_layoutid_cache = 2131230943;
+			public const int textinput_error = 2131230943;
 			
 			// aapt resource value: 0x7F0800E0
-			public const int transition_transform = 2131230944;
+			public const int textinput_helper_text = 2131230944;
+			
+			// aapt resource value: 0x7F0800DA
+			public const int textSpacerNoButtons = 2131230938;
+			
+			// aapt resource value: 0x7F0800DB
+			public const int textSpacerNoTitle = 2131230939;
+			
+			// aapt resource value: 0x7F0800DC
+			public const int textStart = 2131230940;
+			
+			// aapt resource value: 0x7F0800DD
+			public const int text_input_password_toggle = 2131230941;
 			
 			// aapt resource value: 0x7F0800E1
-			public const int @unchecked = 2131230945;
+			public const int time = 2131230945;
 			
 			// aapt resource value: 0x7F0800E2
-			public const int uniform = 2131230946;
+			public const int title = 2131230946;
 			
 			// aapt resource value: 0x7F0800E3
-			public const int unlabeled = 2131230947;
+			public const int titleDividerNoCustom = 2131230947;
 			
 			// aapt resource value: 0x7F0800E4
-			public const int up = 2131230948;
+			public const int title_template = 2131230948;
 			
 			// aapt resource value: 0x7F0800E5
-			public const int useLogo = 2131230949;
+			public const int top = 2131230949;
 			
 			// aapt resource value: 0x7F0800E6
-			public const int view_offset_helper = 2131230950;
+			public const int topPanel = 2131230950;
 			
 			// aapt resource value: 0x7F0800E7
-			public const int view_tree_saved_state_registry_owner = 2131230951;
+			public const int touch_outside = 2131230951;
 			
 			// aapt resource value: 0x7F0800E8
-			public const int visible = 2131230952;
+			public const int transition_current_scene = 2131230952;
 			
 			// aapt resource value: 0x7F0800E9
-			public const int visible_removing_fragment_view_tag = 2131230953;
+			public const int transition_layout_save = 2131230953;
 			
 			// aapt resource value: 0x7F0800EA
-			public const int withText = 2131230954;
+			public const int transition_position = 2131230954;
 			
 			// aapt resource value: 0x7F0800EB
-			public const int wrap_content = 2131230955;
+			public const int transition_scene_layoutid_cache = 2131230955;
+			
+			// aapt resource value: 0x7F0800EC
+			public const int transition_transform = 2131230956;
+			
+			// aapt resource value: 0x7F0800ED
+			public const int @unchecked = 2131230957;
+			
+			// aapt resource value: 0x7F0800EE
+			public const int uniform = 2131230958;
+			
+			// aapt resource value: 0x7F0800EF
+			public const int unlabeled = 2131230959;
+			
+			// aapt resource value: 0x7F0800F0
+			public const int up = 2131230960;
+			
+			// aapt resource value: 0x7F0800F1
+			public const int useLogo = 2131230961;
+			
+			// aapt resource value: 0x7F0800F2
+			public const int view_offset_helper = 2131230962;
+			
+			// aapt resource value: 0x7F0800F3
+			public const int view_tree_saved_state_registry_owner = 2131230963;
+			
+			// aapt resource value: 0x7F0800F4
+			public const int visible = 2131230964;
+			
+			// aapt resource value: 0x7F0800F5
+			public const int visible_removing_fragment_view_tag = 2131230965;
+			
+			// aapt resource value: 0x7F0800F6
+			public const int withText = 2131230966;
+			
+			// aapt resource value: 0x7F0800F7
+			public const int wrap_content = 2131230967;
 			
 			static Id()
 			{
@@ -4532,31 +6276,34 @@ namespace MemoryGame
 			public const int fallback_menu_item_share_link = 2131558438;
 			
 			// aapt resource value: 0x7F0D0027
-			public const int hide_bottom_view_on_scroll_behavior = 2131558439;
+			public const int hello = 2131558439;
 			
 			// aapt resource value: 0x7F0D0028
-			public const int mtrl_chip_close_icon_content_description = 2131558440;
+			public const int hide_bottom_view_on_scroll_behavior = 2131558440;
 			
 			// aapt resource value: 0x7F0D0029
-			public const int password_toggle_content_description = 2131558441;
+			public const int mtrl_chip_close_icon_content_description = 2131558441;
 			
 			// aapt resource value: 0x7F0D002A
-			public const int path_password_eye = 2131558442;
+			public const int password_toggle_content_description = 2131558442;
 			
 			// aapt resource value: 0x7F0D002B
-			public const int path_password_eye_mask_strike_through = 2131558443;
+			public const int path_password_eye = 2131558443;
 			
 			// aapt resource value: 0x7F0D002C
-			public const int path_password_eye_mask_visible = 2131558444;
+			public const int path_password_eye_mask_strike_through = 2131558444;
 			
 			// aapt resource value: 0x7F0D002D
-			public const int path_password_strike_through = 2131558445;
+			public const int path_password_eye_mask_visible = 2131558445;
 			
 			// aapt resource value: 0x7F0D002E
-			public const int search_menu_title = 2131558446;
+			public const int path_password_strike_through = 2131558446;
 			
 			// aapt resource value: 0x7F0D002F
-			public const int status_bar_notification_info_overflow = 2131558447;
+			public const int search_menu_title = 2131558447;
+			
+			// aapt resource value: 0x7F0D0030
+			public const int status_bar_notification_info_overflow = 2131558448;
 			
 			static String()
 			{

@@ -3,6 +3,7 @@ using Android.OS;
 using Android.Runtime;
 using AndroidX.AppCompat.App;
 using System;
+using MODEL;
 
 namespace MemoryGame
 {
